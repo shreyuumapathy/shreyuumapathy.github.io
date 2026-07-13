@@ -1,0 +1,117 @@
+.contact_wrapper svg {
+  font-size: 1em;
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.contact-form {
+  padding-top: 20px;
+}
+
+label {
+  font-size: 1.2rem;
+  font-family: "Lora", serif;
+}
+
+.form-flex {
+  display: flex;
+  gap: 15px;
+  padding-bottom: 15px;
+}
+
+.form-flex .MuiFormControl-root {
+  width: 100%;
+}
+
+form {
+  width: 100% !important;
+}
+
+.body-form {
+  width: 100% !important;
+  margin-bottom: 15px !important;
+}
+
+/* Dark mode styling overrides for MUI inputs */
+.dark-mode {
+  .contact-form {
+    .MuiOutlinedInput-root {
+      color: white !important;
+      background-color: #161b22 !important;
+      
+      fieldset {
+        border-color: rgba(255, 255, 255, 0.2) !important;
+        background-color: transparent !important;
+      }
+      
+      &:hover fieldset {
+        border-color: rgba(255, 255, 255, 0.4) !important;
+      }
+      
+      &.Mui-focused fieldset {
+        border-color: #5000ca !important;
+      }
+    }
+    
+    .MuiInputLabel-root {
+      color: rgba(255, 255, 255, 0.7) !important;
+      
+      &.Mui-focused {
+        color: #5000ca !important;
+      }
+    }
+
+    button {
+      background-color: #161b22 !important;
+      color: white !important;
+      border: 1px solid #5000ca !important;
+    }
+
+    button:hover {
+      background-color: #5000ca !important;
+      color: white !important;
+    }
+  }
+}
+
+/* Light mode styling overrides for MUI inputs */
+.light-mode {
+  .contact-form {
+    .MuiOutlinedInput-root {
+      color: #0d1116 !important;
+      background-color: white !important;
+      
+      fieldset {
+        border-color: rgba(0, 0, 0, 0.23) !important;
+        background-color: transparent !important;
+      }
+      
+      &:hover fieldset {
+        border-color: rgba(0, 0, 0, 0.87) !important;
+      }
+      
+      &.Mui-focused fieldset {
+        border-color: #5000ca !important;
+      }
+    }
+    
+    .MuiInputLabel-root {
+      color: rgba(0, 0, 0, 0.6) !important;
+      
+      &.Mui-focused {
+        color: #5000ca !important;
+      }
+    }
+
+    button {
+      background-color: white !important;
+      color: #0d1116 !important;
+      border: 1px solid #5000ca !important;
+    }
+
+    button:hover {
+      background-color: #5000ca !important;
+      color: white !important;
+    }
+  }
+}
