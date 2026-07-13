@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e61facae.css",
-    "main.js": "/static/js/main.e70a8a9e.js",
+    "main.css": "/static/css/main.1d2fe12c.css",
+    "main.js": "/static/js/main.a77a7627.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/nyc_chs_nutrition.jpg": "/static/media/nyc_chs_nutrition.4d10ff4a091d7576c3c9.jpg",
     "static/media/empowerher_connect.jpg": "/static/media/empowerher_connect.1f0e062cea6feb615f79.jpg",
@@ -10,12 +10,12 @@
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/shreyu_avatar.jpg": "/static/media/shreyu_avatar.1a40402499b472af4213.jpg",
     "index.html": "/index.html",
-    "main.e61facae.css.map": "/static/css/main.e61facae.css.map",
-    "main.e70a8a9e.js.map": "/static/js/main.e70a8a9e.js.map",
+    "main.1d2fe12c.css.map": "/static/css/main.1d2fe12c.css.map",
+    "main.a77a7627.js.map": "/static/js/main.a77a7627.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e61facae.css",
-    "static/js/main.e70a8a9e.js"
+    "static/css/main.1d2fe12c.css",
+    "static/js/main.a77a7627.js"
   ]
 }
