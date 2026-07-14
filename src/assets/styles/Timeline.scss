@@ -152,12 +152,6 @@
             display: block !important;
         }
         
-        .meta-location {
-            color: gray !important; // Location looks cleaner in a neutral color!
-        }
-        
-        .light-mode & .meta-location {
-            color: gray !important;
-        }
+
     }
 }
