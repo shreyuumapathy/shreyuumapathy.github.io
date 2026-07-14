@@ -139,11 +139,25 @@
         display: none !important;
     }
     .mobile-timeline-meta {
-        display: block !important;
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 4px !important;
         margin-top: 6px !important;
         margin-bottom: 12px !important;
         font-size: 0.85rem !important;
         font-weight: 600 !important;
         color: #069494 !important;
+
+        span {
+            display: block !important;
+        }
+        
+        .meta-location {
+            color: gray !important; // Location looks cleaner in a neutral color!
+        }
+        
+        .light-mode & .meta-location {
+            color: gray !important;
+        }
     }
 }
