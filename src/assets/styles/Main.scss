@@ -175,8 +175,10 @@
         }
 
         .about-section .image-wrapper {
-            padding-left: 5%;
-            width: 100%;
+            margin: 0 auto 30px auto;
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
         }
     }
 }
