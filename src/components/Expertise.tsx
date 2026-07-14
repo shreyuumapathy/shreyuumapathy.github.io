@@ -29,10 +29,10 @@ const labelsSecond = [
 ];
 
 const labelsThird = [
-    "IRB Applications",
+    "Regulatory Compliance",
     "FDA Regulations",
-    "Literature Reviews",
-    "Research Collaboration",
+    "Market & Clinical Insights",
+    "Stakeholder Engagement",
     "Data Quality Control",
     "Project Coordination",
     "Human Subjects Research (CITI)",

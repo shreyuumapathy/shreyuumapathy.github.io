@@ -27,7 +27,8 @@ function Timeline() {
             <h4 className="vertical-timeline-element-subtitle">Evolutionary Health Group (NCBI)</h4>
             <ul>
               <li>Engineered predictive data visualizations and neural network models using R and Python across complex geospatial climate datasets to accurately estimate vector distribution patterns.</li>
-              <li>Synthesized modeling findings into strategic, actionable insights during weekly multidisciplinary briefs to align data outcomes with current public health literature.</li>
+              <li>Synthesized and presented modeling findings during weekly multidisciplinary briefs to align predictive data outcomes with current public health literature and inform director-level decision-making.</li>
+              <li>Managed database preprocessing, quality controls, and geospatial file transformation pipelines, increasing analysis reproducibility.</li>
             </ul>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -44,8 +45,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Medical Scribe</h3>
             <h4 className="vertical-timeline-element-subtitle">Weill Cornell (Scribe America)</h4>
             <ul>
-              <li>Managed 25+ daily patient encounters in a high-volume academic medical center while partnering with clinical leadership to optimize healthcare delivery operations.</li>
-              <li>Designed and optimized structured data entry templates that improved reporting efficiency by 15% and ensured absolute data accuracy for clinical decision-making.</li>
+              <li>Partnered with clinical leadership to optimize healthcare delivery operations across 25+ daily patient encounters; designed structured documentation templates that improved reporting efficiency by 15%.</li>
             </ul>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,10 +59,11 @@ function Timeline() {
             iconStyle={{ background: '#069494', color: '#fff' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Research Assistant</h3>
+            <h3 className="vertical-timeline-element-title">Research Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Augusta University</h4>
             <ul>
-              <li>Developed interactive Tableau dashboards to translate complex behavioral and clinical datasets into actionable commercial comparisons, ensuring absolute IRB and federal regulatory audit readiness for senior leadership.</li>
+              <li>Developed interactive Tableau dashboards to translate complex behavioral research data into actionable comparisons, facilitating executive decision-making.</li>
+              <li>Managed clinical database administration and data cleaning protocols in REDCap, maintaining database integrity and audit histories to ensure readiness for institutional IRB reviews and federal regulatory audits.</li>
             </ul>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -76,10 +77,11 @@ function Timeline() {
             iconStyle={{ background: '#069494', color: '#fff' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Clinical Data Management Intern</h3>
+            <h3 className="vertical-timeline-element-title">Clinical Data Intern</h3>
             <h4 className="vertical-timeline-element-subtitle">Augusta University</h4>
             <ul>
-              <li>Maintained and audited clinical datasets for a high-profile GI cancer trends study published by the American College of Gastroenterology, ensuring regulatory-grade data quality and robust statistical validation.</li>
+              <li>Managed and cleaned clinical datasets for a national Small Intestinal Cancer regional trends study published in the American College of Gastroenterology (ACG) journal.</li>
+              <li>Performed comprehensive database audits and quality control checks to ensure regulatory compliance, partnering with lead biostatisticians to prepare clinical trial datasets for multivariable regression in SAS.</li>
             </ul>
           </VerticalTimelineElement>
         </VerticalTimeline>

@@ -118,12 +118,14 @@
 /* Adjust date positions on desktop to prevent overlaps */
 @media only screen and (min-width: 1170px) {
     .vertical-timeline-element:nth-child(even) .vertical-timeline-element-date {
-        left: 112% !important;
-        text-align: left !important;
+        right: 124% !important;
+        left: auto !important;
+        text-align: right !important;
     }
     
     .vertical-timeline-element:nth-child(odd) .vertical-timeline-element-date {
-        right: 112% !important;
-        text-align: right !important;
+        left: 124% !important;
+        right: auto !important;
+        text-align: left !important;
     }
 }

@@ -1,0 +1,397 @@
+.simulator-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.85);
+  backdrop-filter: blur(8px);
+  z-index: 9999999 !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  animation: fadeIn 0.3s ease;
+  pointer-events: auto !important;
+}
+
+.simulator-container {
+  position: relative;
+  background: #111;
+  border: 4px solid #333;
+  border-radius: 40px;
+  padding: 10px;
+  width: 380px;
+  height: 760px;
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-sizing: border-box;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 15px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 110px;
+    height: 25px;
+    background: #000;
+    border-radius: 20px;
+    z-index: 100;
+  }
+}
+
+.close-simulator-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  color: #fff;
+  font-size: 1.5rem;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10000000 !important;
+  pointer-events: auto !important;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.25);
+    transform: scale(1.05);
+  }
+}
+
+
+
+.phone-screen {
+  background: #fdfaf7;
+  color: #2b2b2b !important;
+  flex: 1;
+  border-radius: 32px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+
+  h1, h2, h3, h4, h5, p, span, label, li {
+    color: #2b2b2b !important;
+  }
+}
+
+.phone-header {
+  background: #069494;
+  color: #fff !important;
+  padding: 40px 16px 16px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  h2 {
+    font-size: 1.15rem;
+    margin: 0;
+    font-weight: 700;
+    color: #fff !important;
+  }
+  
+  svg {
+    color: #fff !important;
+  }
+}
+
+.phone-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.phone-footer {
+  background: #eedfd2;
+  border-top: 1px solid #e0d0c0;
+  display: flex;
+  justify-content: space-around;
+  padding: 8px 0;
+}
+
+.tab-btn {
+  background: none;
+  border: none;
+  color: #665b53;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 0.65rem;
+  cursor: pointer;
+  flex: 1;
+  padding: 4px 0;
+
+  &.active {
+    color: #069494;
+    font-weight: bold;
+  }
+
+  svg {
+    font-size: 1.1rem;
+    margin-bottom: 4px;
+  }
+}
+
+// Home Tab Styles
+.welcome-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  margin-bottom: 16px;
+
+  h3 {
+    margin: 0 0 8px 0;
+    color: #2b2b2b;
+    font-size: 1.2rem;
+  }
+
+  p {
+    margin: 0;
+    color: #666;
+    font-size: 0.85rem;
+    line-height: 1.4;
+  }
+}
+
+.feature-link {
+  background: #f6e6db;
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: transform 0.2s;
+
+  &:hover {
+    transform: translateY(-2px);
+  }
+
+  .icon-box {
+    background: #069494;
+    color: #fff;
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 12px;
+  }
+
+  .text-box {
+    text-align: left;
+    h4 {
+      margin: 0 0 2px 0;
+      font-size: 0.9rem;
+      color: #2b2b2b;
+    }
+    p {
+      margin: 0;
+      font-size: 0.75rem;
+      color: #666;
+    }
+  }
+}
+
+// Tracker Styles
+.mood-picker {
+  background: #fff;
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  text-align: center;
+  margin-bottom: 16px;
+
+  h4 {
+    margin: 0 0 12px 0;
+    font-size: 0.95rem;
+  }
+}
+
+.emoji-row {
+  display: flex;
+  justify-content: space-around;
+}
+
+.emoji-btn {
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  transition: transform 0.2s;
+
+  &:hover {
+    transform: scale(1.2);
+  }
+
+  &.active {
+    transform: scale(1.25);
+    filter: drop-shadow(0 2px 4px rgba(0,0,0,0.15));
+  }
+}
+
+.tracker-checklist {
+  background: #fff;
+  border-radius: 16px;
+  padding: 16px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+
+  h4 {
+    margin: 0 0 12px 0;
+  }
+}
+
+.checklist-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 0.85rem;
+
+  input {
+    margin-right: 10px;
+    accent-color: #069494;
+  }
+}
+
+// Find Care Styles
+.search-bar {
+  background: #fff;
+  border: 1px solid #e0d0c0;
+  border-radius: 8px;
+  padding: 8px 12px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+
+  input {
+    border: none;
+    outline: none;
+    flex: 1;
+    font-size: 0.85rem;
+    margin-left: 8px;
+  }
+}
+
+.provider-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+  border-left: 4px solid #069494;
+  text-align: left;
+
+  h4 {
+    margin: 0 0 4px 0;
+    font-size: 0.9rem;
+    color: #2b2b2b;
+  }
+  p {
+    margin: 0 0 8px 0;
+    font-size: 0.75rem;
+    color: #666;
+  }
+}
+
+.tag-row {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.tag {
+  background: #f0e4dc;
+  color: #8c5d40;
+  font-size: 0.65rem;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+// Community Styles
+.post-card {
+  background: #fff;
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 12px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.03);
+  text-align: left;
+
+  .post-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 8px;
+
+    .avatar {
+      background: #eedfd2;
+      width: 32px;
+      height: 32px;
+      border-radius: 50%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 0.8rem;
+      font-weight: bold;
+      margin-right: 8px;
+    }
+
+    .meta {
+      h5 {
+        margin: 0;
+        font-size: 0.8rem;
+      }
+      span {
+        font-size: 0.65rem;
+        color: #999;
+      }
+    }
+  }
+
+  p {
+    margin: 0 0 10px 0;
+    font-size: 0.8rem;
+    color: #444;
+    line-height: 1.4;
+  }
+}
+
+.post-actions {
+  border-top: 1px solid #eee;
+  padding-top: 8px;
+  display: flex;
+  gap: 16px;
+
+  button {
+    background: none;
+    border: none;
+    color: #666;
+    font-size: 0.75rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+
+    &.liked {
+      color: #e0245e;
+    }
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
