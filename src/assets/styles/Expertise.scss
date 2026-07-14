@@ -73,7 +73,12 @@
         }
         
         .skills-container .skills-grid .skill {
-            padding-bottom: 5%;
+            margin-bottom: 50px !important;
+            padding-bottom: 0px !important;
+        }
+
+        .skills-container .skills-grid .skill:last-child {
+            margin-bottom: 0px !important;
         }
     }
 

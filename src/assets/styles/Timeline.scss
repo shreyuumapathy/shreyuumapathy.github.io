@@ -128,4 +128,22 @@
         right: auto !important;
         text-align: left !important;
     }
+
+    .mobile-timeline-meta {
+        display: none !important;
+    }
+}
+
+@media only screen and (max-width: 1169px) {
+    .vertical-timeline-element-date {
+        display: none !important;
+    }
+    .mobile-timeline-meta {
+        display: block !important;
+        margin-top: 6px !important;
+        margin-bottom: 12px !important;
+        font-size: 0.85rem !important;
+        font-weight: 600 !important;
+        color: #069494 !important;
+    }
 }
