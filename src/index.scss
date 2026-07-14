@@ -143,6 +143,27 @@ p, a, h1, h2, h3, h4, h5, label, button {
   .flex-chips .chip-title {
     color: #0d1116;
   }
+
+  // Alternating section shading for visual page breaks in light mode
+  .about-section {
+    background-color: #ffffff !important;
+  }
+  
+  #expertise {
+    background-color: #f8f9fa !important;
+  }
+  
+  #history {
+    background-color: #ffffff !important;
+  }
+  
+  #projects {
+    background-color: #f8f9fa !important;
+  }
+  
+  #contact {
+    background-color: #ffffff !important;
+  }
 }
 
 @media screen {
