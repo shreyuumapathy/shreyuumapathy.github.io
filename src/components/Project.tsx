@@ -8,8 +8,17 @@ import powerbiDashboard from '../assets/images/powerbi_llm_bias_dashboard.jpg';
 import { EmpowerHerSimulator } from "./EmpowerHerSimulator";
 import '../assets/styles/Project.scss';
 
+// ============================================================================
+// 🛠️ LIVE DASHBOARD CONFIGURATION
+// Paste your published Tableau Public / Power BI embed links here!
+// If left blank, the website will automatically display the static dashboard mockup.
+// ============================================================================
+const TABLEAU_EMBED_URL = ""; // Example: "https://public.tableau.com/views/YourDashboardName..."
+const POWERBI_EMBED_URL = ""; // Example: "https://app.powerbi.com/view?r=YourEmbedCode..."
+
 function Project() {
     const [isSimulatorOpen, setIsSimulatorOpen] = useState(false);
+    const [activeDashboardType, setActiveDashboardType] = useState<'tableau' | 'powerbi' | null>(null);
     const [activeDashboardImage, setActiveDashboardImage] = useState<string | null>(null);
     const [activeDashboardTitle, setActiveDashboardTitle] = useState<string>('');
 
@@ -22,19 +31,33 @@ function Project() {
       borderRadius: '8px',
       color: '#fff',
       fontWeight: 'bold',
-      fontSize: '0.85rem',
+      fontSize: '0.82rem',
       cursor: 'pointer',
       textDecoration: 'none',
       transition: 'background 0.2s',
       textAlign: 'center' as const
     };
 
-    const handleMouseOver = (e: React.MouseEvent<HTMLAnchorElement | HTMLButtonElement>) => {
-      e.currentTarget.style.background = '#057d7d';
+    const secondaryBtnStyle = {
+      ...btnStyle,
+      background: 'transparent',
+      border: '2px solid #069494',
+      color: '#069494',
     };
 
-    const handleMouseOut = (e: React.MouseEvent<HTMLAnchorElement | HTMLButtonElement>) => {
-      e.currentTarget.style.background = '#069494';
+    const handleMouseOver = (e: React.MouseEvent<HTMLAnchorElement | HTMLButtonElement>) => {
+      e.currentTarget.style.background = '#057d7d';
+      e.currentTarget.style.color = '#fff';
+    };
+
+    const handleMouseOut = (e: React.MouseEvent<HTMLAnchorElement | HTMLButtonElement>, isSecondary = false) => {
+      if (isSecondary) {
+        e.currentTarget.style.background = 'transparent';
+        e.currentTarget.style.color = '#069494';
+      } else {
+        e.currentTarget.style.background = '#069494';
+        e.currentTarget.style.color = '#fff';
+      }
     };
 
     return(
@@ -51,7 +74,7 @@ function Project() {
                   rel="noreferrer" 
                   style={btnStyle}
                   onMouseOver={handleMouseOver}
-                  onMouseOut={handleMouseOut}
+                  onMouseOut={(e) => handleMouseOut(e)}
                 >
                   View R Analysis Code
                 </a>
@@ -61,28 +84,47 @@ function Project() {
                 <a href="https://github.com/shreyuumapathy/nyc-chs-vegetable-intake" target="_blank" rel="noreferrer"><img src={nycChsNutrition} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/shreyuumapathy/nyc-chs-vegetable-intake" target="_blank" rel="noreferrer"><h2>Modeling Vegetable Intake: 2019 NYC CHS</h2></a>
                 <p>Conducted public health statistical modeling on the 2019 NYC Community Health Survey (NYC CHS) database. Programmatically extracted and processed SAS data in R to evaluate dietary patterns (vegetable intake) and analyzed relationships with random socio-environmental and healthcare-access covariates.</p>
-                <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+                <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
                   <a 
                     href="https://github.com/shreyuumapathy/nyc-chs-vegetable-intake" 
                     target="_blank" 
                     rel="noreferrer" 
                     style={btnStyle}
                     onMouseOver={handleMouseOver}
-                    onMouseOut={handleMouseOut}
+                    onMouseOut={(e) => handleMouseOut(e)}
                   >
-                    View Statistical R Scripts
+                    View R Scripts
                   </a>
                   <button 
                     onClick={() => {
+                      setActiveDashboardType('tableau');
                       setActiveDashboardImage(tableauDashboard);
                       setActiveDashboardTitle('Tableau Dashboard: NYC Health Equity');
                     }}
                     style={btnStyle}
                     onMouseOver={handleMouseOver}
-                    onMouseOut={handleMouseOut}
+                    onMouseOut={(e) => handleMouseOut(e)}
                   >
                     View Tableau Dashboard
                   </button>
+                  <a 
+                    href="/nyc_chs_vegetable_intake_clean.csv" 
+                    download
+                    style={secondaryBtnStyle}
+                    onMouseOver={handleMouseOver}
+                    onMouseOut={(e) => handleMouseOut(e, true)}
+                  >
+                    Download Dataset (CSV)
+                  </a>
+                  <a 
+                    href="/nyc_chs_vegetable_intake.twbx" 
+                    download
+                    style={secondaryBtnStyle}
+                    onMouseOver={handleMouseOver}
+                    onMouseOut={(e) => handleMouseOut(e, true)}
+                  >
+                    Download Workbook (.twbx)
+                  </a>
                 </div>
             </div>
 
@@ -90,28 +132,47 @@ function Project() {
                 <a href="https://github.com/shreyuumapathy/llm-health-bias-research" target="_blank" rel="noreferrer"><img src={llmHealthBias} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/shreyuumapathy/llm-health-bias-research" target="_blank" rel="noreferrer"><h2>LLM Demographic Bias: Interaction Analysis</h2></a>
                 <p>Master's Capstone Thesis evaluating demographic anchoring and status erasure in LLM-generated health narratives (CUNY SPH). Engineered a Python ETL pipeline to clean and aggregate raw scenario simulation outputs, and fit multivariable interaction models in R to quantify modifying effects of professional prestige.</p>
-                <div style={{ display: 'flex', gap: '10px', flexWrap: 'wrap' }}>
+                <div style={{ display: 'flex', gap: '8px', flexWrap: 'wrap' }}>
                   <a 
                     href="https://github.com/shreyuumapathy/llm-health-bias-research" 
                     target="_blank" 
                     rel="noreferrer" 
                     style={btnStyle}
                     onMouseOver={handleMouseOver}
-                    onMouseOut={handleMouseOut}
+                    onMouseOut={(e) => handleMouseOut(e)}
                   >
-                    View ETL & R Modeling Code
+                    View ETL & R Code
                   </a>
                   <button 
                     onClick={() => {
+                      setActiveDashboardType('powerbi');
                       setActiveDashboardImage(powerbiDashboard);
                       setActiveDashboardTitle('Power BI Dashboard: LLM Clinical Bias Audit');
                     }}
                     style={btnStyle}
                     onMouseOver={handleMouseOver}
-                    onMouseOut={handleMouseOut}
+                    onMouseOut={(e) => handleMouseOut(e)}
                   >
                     View Power BI Dashboard
                   </button>
+                  <a 
+                    href="/llm_health_bias_clean.csv" 
+                    download
+                    style={secondaryBtnStyle}
+                    onMouseOver={handleMouseOver}
+                    onMouseOut={(e) => handleMouseOut(e, true)}
+                  >
+                    Download Dataset (CSV)
+                  </a>
+                  <a 
+                    href="/llm_clinical_bias_audit.pbix" 
+                    download
+                    style={secondaryBtnStyle}
+                    onMouseOver={handleMouseOver}
+                    onMouseOut={(e) => handleMouseOut(e, true)}
+                  >
+                    Download Workbook (.pbix)
+                  </a>
                 </div>
             </div>
 
@@ -123,7 +184,7 @@ function Project() {
                   onClick={() => setIsSimulatorOpen(true)}
                   style={btnStyle}
                   onMouseOver={handleMouseOver}
-                  onMouseOut={handleMouseOut}
+                  onMouseOut={(e) => handleMouseOut(e)}
                 >
                   Run Interactive Prototype
                 </button>
@@ -150,12 +211,15 @@ function Project() {
               padding: '20px',
               boxSizing: 'border-box'
             }} 
-            onClick={() => setActiveDashboardImage(null)}
+            onClick={() => {
+              setActiveDashboardImage(null);
+              setActiveDashboardType(null);
+            }}
           >
             <div 
               style={{
                 position: 'relative',
-                maxWidth: '900px',
+                maxWidth: '1000px',
                 width: '100%',
                 backgroundColor: '#111',
                 borderRadius: '12px',
@@ -181,7 +245,10 @@ function Project() {
                   fontWeight: 'bold',
                   zIndex: 100
                 }} 
-                onClick={() => setActiveDashboardImage(null)}
+                onClick={() => {
+                  setActiveDashboardImage(null);
+                  setActiveDashboardType(null);
+                }}
               >
                 ✕
               </button>
@@ -190,21 +257,45 @@ function Project() {
                 {activeDashboardTitle}
               </h2>
               
-              <img 
-                src={activeDashboardImage} 
-                alt="Dashboard Mockup" 
-                style={{ 
-                  width: '100%', 
-                  height: 'auto',
-                  maxHeight: '70vh', 
-                  borderRadius: '6px',
-                  boxShadow: '0 4px 12px rgba(0,0,0,0.3)',
-                  objectFit: 'contain'
-                }} 
-              />
+              {/* Dynamic Embed iframe or Fallback Mockup Image */}
+              {activeDashboardType === 'tableau' && TABLEAU_EMBED_URL ? (
+                <iframe
+                  src={TABLEAU_EMBED_URL}
+                  title="Tableau Interactive Dashboard"
+                  style={{ width: '100%', height: '70vh', border: 'none', borderRadius: '6px' }}
+                />
+              ) : activeDashboardType === 'powerbi' && POWERBI_EMBED_URL ? (
+                <iframe
+                  src={POWERBI_EMBED_URL}
+                  title="Power BI Interactive Dashboard"
+                  style={{ width: '100%', height: '70vh', border: 'none', borderRadius: '6px' }}
+                />
+              ) : (
+                <div style={{ position: 'relative', width: '100%', textAlign: 'center' }}>
+                  <img 
+                    src={activeDashboardImage} 
+                    alt="Dashboard Mockup" 
+                    style={{ 
+                      width: '100%', 
+                      height: 'auto',
+                      maxHeight: '65vh', 
+                      borderRadius: '6px',
+                      boxShadow: '0 4px 12px rgba(0,0,0,0.3)',
+                      objectFit: 'contain'
+                    }} 
+                  />
+                  <p style={{ color: '#069494', margin: '10px 0 0 0', fontSize: '0.85rem', fontWeight: 'bold', fontFamily: 'sans-serif' }}>
+                    ⚙️ Mockup Preview Mode (Fallback Active)
+                  </p>
+                </div>
+              )}
               
-              <p style={{ color: '#aaa', margin: '15px 0 0 0', fontSize: '0.85rem', textAlign: 'center', lineHeight: '1.4', fontFamily: 'sans-serif' }}>
-                💡 <strong>Interactive Mockup:</strong> This dashboard evaluates and visualizes cohort study parameters. In a live production environment, this is published via Tableau Public or Power BI Service and embedded directly as an interactive HTML iframe.
+              <p style={{ color: '#aaa', margin: '15px 0 0 0', fontSize: '0.8rem', textAlign: 'center', lineHeight: '1.4', fontFamily: 'sans-serif' }}>
+                {(activeDashboardType === 'tableau' && !!TABLEAU_EMBED_URL) || (activeDashboardType === 'powerbi' && !!POWERBI_EMBED_URL) ? (
+                  <span>💡 <strong>Live Connection Active:</strong> You are interacting with the actual published cloud report instance. Hover and filter variables to explore.</span>
+                ) : (
+                  <span>💡 <strong>Recruiter Notice:</strong> Paste your published cloud dashboard URL inside <code>src/components/Project.tsx</code> (lines 13-14) to replace this static mockup with your fully live, interactive cloud report.</span>
+                )}
               </p>
             </div>
           </div>
