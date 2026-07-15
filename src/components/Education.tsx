@@ -34,9 +34,39 @@ function Education() {
           <h1 style={{ marginBottom: '30px' }}>Research & Publications</h1>
 
           <div className="publication-card">
-            <h3>Small Intestinal Cancer Regional Trends Study</h3>
+            <a 
+              href="https://journals.lww.com/ajg/fulltext/10.14309/01.ajg.0000779028.58257.b2~s1374minority-and-womens-health-disparities-small-intestinal" 
+              target="_blank" 
+              rel="noreferrer"
+              style={{ textDecoration: 'none' }}
+            >
+              <h3 
+                style={{ cursor: 'pointer' }}
+                onMouseOver={(e) => (e.currentTarget.style.textDecoration = 'underline')}
+                onMouseOut={(e) => (e.currentTarget.style.textDecoration = 'none')}
+              >
+                Small Intestinal Cancer Regional Trends Study
+              </h3>
+            </a>
             <h4>Co-Author • American College of Gastroenterology (ACG) Journal</h4>
             <p>Performed data cleansing, normalization, and auditing of SEER study variables. Partnered with lead biostatisticians to prepare multi-center clinical cohorts for multivariable regression modeling in SAS.</p>
+            <a 
+              href="https://journals.lww.com/ajg/fulltext/10.14309/01.ajg.0000779028.58257.b2~s1374minority-and-womens-health-disparities-small-intestinal" 
+              target="_blank" 
+              rel="noreferrer"
+              style={{
+                display: 'inline-block',
+                marginTop: '10px',
+                color: '#069494',
+                fontWeight: 'bold',
+                fontSize: '0.85rem',
+                textDecoration: 'none'
+              }}
+              onMouseOver={(e) => (e.currentTarget.style.textDecoration = 'underline')}
+              onMouseOut={(e) => (e.currentTarget.style.textDecoration = 'none')}
+            >
+              Read Publication →
+            </a>
           </div>
 
           <div className="publication-card">
