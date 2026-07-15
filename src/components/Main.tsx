@@ -21,7 +21,7 @@ function Main() {
           <p>Healthcare Data Analyst & Consultant</p>
           
           <a 
-            href="/Shreyu_Umapathy_Resume.docx" 
+            href="/Shreyu_Umapathy_Resume.pdf" 
             download 
             className="btn-resume" 
             style={{
@@ -41,7 +41,7 @@ function Main() {
             onMouseOver={(e) => (e.currentTarget.style.background = '#057d7d')}
             onMouseOut={(e) => (e.currentTarget.style.background = '#069494')}
           >
-            Download Resume (Word)
+            Download Resume (PDF)
           </a>
 
           <div className="mobile_social_icons">
