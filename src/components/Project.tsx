@@ -13,7 +13,7 @@ import '../assets/styles/Project.scss';
 // Paste your published Tableau Public / Power BI embed links here!
 // If left blank, the website will automatically display the static dashboard mockup.
 // ============================================================================
-const TABLEAU_EMBED_URL = ""; // Example: "https://public.tableau.com/views/YourDashboardName..."
+const TABLEAU_EMBED_URL = "https://public.tableau.com/shared/YCZGDD29H?:embed=yes&:showVizHome=no"; // Example: "https://public.tableau.com/views/YourDashboardName..."
 const POWERBI_EMBED_URL = ""; // Example: "https://app.powerbi.com/view?r=YourEmbedCode..."
 
 function Project() {
