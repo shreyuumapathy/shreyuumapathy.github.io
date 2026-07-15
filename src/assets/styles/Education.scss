@@ -1,0 +1,59 @@
+.education-container {
+  display: flex;
+  flex-direction: column;
+  padding: 5% 10%;
+  text-align: left;
+}
+
+.education-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 50px;
+  margin-bottom: 40px;
+}
+
+.education-card, .publication-card {
+  background: transparent;
+  border-left: 4px solid #069494;
+  padding-left: 20px;
+  margin-bottom: 20px;
+
+  h3 {
+    margin: 0 0 6px 0;
+    font-size: 1.3rem;
+    font-weight: 700;
+  }
+
+  h4 {
+    margin: 0 0 8px 0;
+    font-size: 1rem;
+    color: #666;
+    font-weight: 500;
+  }
+
+  p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
+}
+
+.light-mode {
+  .education-card h4, .publication-card h4 {
+    color: #555;
+  }
+}
+
+@media screen {
+  @media (max-width: 768px) {
+    .education-container {
+      padding: 5% 5%;
+    }
+    .education-grid {
+      display: block;
+    }
+    .education-card, .publication-card {
+      margin-bottom: 30px;
+    }
+  }
+}
