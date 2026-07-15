@@ -1,0 +1,1001 @@
+Record_ID,Borough,Age_Group,Gender,Education_Level,FPL_Category,Healthcare_Access,Daily_Vegetable_Servings,Physical_Activity_Min
+NYC0001,Manhattan,65+,Male,High School Graduate,100-199% FPL,Yes,1.3,128
+NYC0002,Brooklyn,18-24,Female,College Graduate,100-199% FPL,Yes,2.2,232
+NYC0003,Manhattan,45-64,Male,High School Graduate,100-199% FPL,No,2.7,96
+NYC0004,Manhattan,65+,Male,Some College,<100% FPL,Yes,1.8,149
+NYC0005,Brooklyn,25-44,Male,Some College,100-199% FPL,Yes,1.2,146
+NYC0006,Queens,65+,Male,College Graduate,<100% FPL,Yes,1.9,180
+NYC0007,Manhattan,45-64,Female,High School Graduate,100-199% FPL,No,1.8,42
+NYC0008,Staten Island,65+,Female,Less than High School,200-399% FPL,Yes,2.8,140
+NYC0009,Staten Island,18-24,Male,High School Graduate,>=400% FPL,Yes,2.6,327
+NYC0010,Staten Island,45-64,Female,Some College,100-199% FPL,No,2.9,166
+NYC0011,Staten Island,65+,Male,High School Graduate,200-399% FPL,No,2.1,155
+NYC0012,Queens,65+,Male,Some College,100-199% FPL,No,1.3,56
+NYC0013,Queens,25-44,Female,Some College,>=400% FPL,Yes,2.7,109
+NYC0014,Brooklyn,25-44,Female,Less than High School,>=400% FPL,Yes,3.3,148
+NYC0015,Queens,45-64,Male,Some College,>=400% FPL,Yes,2.7,170
+NYC0016,Brooklyn,45-64,Male,Some College,200-399% FPL,Yes,2.2,158
+NYC0017,Manhattan,25-44,Female,College Graduate,100-199% FPL,Yes,2.0,103
+NYC0018,Manhattan,18-24,Male,High School Graduate,<100% FPL,Yes,2.0,66
+NYC0019,Queens,18-24,Male,High School Graduate,200-399% FPL,Yes,1.8,103
+NYC0020,Brooklyn,18-24,Male,High School Graduate,<100% FPL,Yes,2.4,96
+NYC0021,Brooklyn,45-64,Female,Less than High School,100-199% FPL,Yes,1.5,113
+NYC0022,Queens,45-64,Female,Some College,>=400% FPL,Yes,1.7,166
+NYC0023,Staten Island,25-44,Male,College Graduate,>=400% FPL,Yes,1.8,166
+NYC0024,Bronx,25-44,Male,Some College,>=400% FPL,Yes,2.6,121
+NYC0025,Queens,45-64,Male,Some College,<100% FPL,Yes,1.4,142
+NYC0026,Staten Island,25-44,Male,College Graduate,>=400% FPL,Yes,2.0,67
+NYC0027,Queens,65+,Male,Less than High School,100-199% FPL,Yes,0.0,152
+NYC0028,Staten Island,25-44,Female,High School Graduate,100-199% FPL,Yes,1.8,194
+NYC0029,Manhattan,18-24,Male,Less than High School,>=400% FPL,Yes,2.3,205
+NYC0030,Bronx,65+,Female,Some College,200-399% FPL,Yes,3.4,110
+NYC0031,Staten Island,45-64,Male,College Graduate,>=400% FPL,Yes,2.6,201
+NYC0032,Staten Island,65+,Male,College Graduate,<100% FPL,Yes,0.3,203
+NYC0033,Staten Island,65+,Female,High School Graduate,100-199% FPL,Yes,1.6,123
+NYC0034,Manhattan,45-64,Male,College Graduate,100-199% FPL,Yes,1.1,106
+NYC0035,Brooklyn,65+,Male,Some College,100-199% FPL,No,1.8,100
+NYC0036,Bronx,25-44,Female,College Graduate,200-399% FPL,Yes,1.8,165
+NYC0037,Brooklyn,18-24,Female,Some College,100-199% FPL,Yes,1.4,201
+NYC0038,Brooklyn,45-64,Female,Some College,100-199% FPL,Yes,1.9,125
+NYC0039,Bronx,45-64,Male,College Graduate,<100% FPL,Yes,1.5,251
+NYC0040,Staten Island,25-44,Female,Less than High School,100-199% FPL,Yes,1.0,218
+NYC0041,Staten Island,25-44,Female,High School Graduate,<100% FPL,Yes,1.1,136
+NYC0042,Manhattan,45-64,Female,Some College,100-199% FPL,Yes,0.9,128
+NYC0043,Brooklyn,18-24,Male,High School Graduate,200-399% FPL,Yes,2.9,154
+NYC0044,Queens,25-44,Male,High School Graduate,>=400% FPL,Yes,2.2,90
+NYC0045,Bronx,25-44,Male,College Graduate,<100% FPL,No,1.5,134
+NYC0046,Staten Island,25-44,Male,Some College,>=400% FPL,No,2.4,133
+NYC0047,Manhattan,18-24,Male,Some College,<100% FPL,Yes,1.0,154
+NYC0048,Manhattan,45-64,Female,Less than High School,>=400% FPL,Yes,3.0,141
+NYC0049,Manhattan,45-64,Female,Less than High School,200-399% FPL,Yes,2.0,158
+NYC0050,Manhattan,25-44,Female,High School Graduate,<100% FPL,Yes,1.9,118
+NYC0051,Manhattan,25-44,Female,Some College,100-199% FPL,Yes,0.8,221
+NYC0052,Brooklyn,45-64,Female,Less than High School,<100% FPL,Yes,1.9,108
+NYC0053,Staten Island,65+,Female,Less than High School,100-199% FPL,Yes,2.1,183
+NYC0054,Queens,45-64,Female,High School Graduate,200-399% FPL,Yes,1.2,190
+NYC0055,Manhattan,45-64,Female,College Graduate,>=400% FPL,Yes,2.6,166
+NYC0056,Queens,45-64,Male,High School Graduate,100-199% FPL,Yes,0.6,79
+NYC0057,Staten Island,18-24,Male,High School Graduate,200-399% FPL,No,2.9,85
+NYC0058,Queens,45-64,Female,College Graduate,<100% FPL,No,0.0,89
+NYC0059,Staten Island,18-24,Female,High School Graduate,200-399% FPL,Yes,1.6,161
+NYC0060,Bronx,18-24,Male,High School Graduate,200-399% FPL,No,1.6,37
+NYC0061,Manhattan,18-24,Male,Less than High School,200-399% FPL,Yes,1.3,155
+NYC0062,Bronx,65+,Female,Some College,200-399% FPL,Yes,1.4,46
+NYC0063,Staten Island,25-44,Female,College Graduate,>=400% FPL,Yes,1.2,160
+NYC0064,Staten Island,25-44,Male,Less than High School,>=400% FPL,Yes,2.9,121
+NYC0065,Brooklyn,18-24,Male,Less than High School,>=400% FPL,Yes,1.8,127
+NYC0066,Brooklyn,25-44,Female,College Graduate,<100% FPL,No,1.1,94
+NYC0067,Brooklyn,18-24,Female,Less than High School,<100% FPL,Yes,1.4,182
+NYC0068,Queens,18-24,Female,Some College,>=400% FPL,Yes,2.2,127
+NYC0069,Brooklyn,18-24,Male,Less than High School,>=400% FPL,Yes,2.3,136
+NYC0070,Bronx,25-44,Male,Less than High School,100-199% FPL,Yes,2.1,117
+NYC0071,Brooklyn,45-64,Male,Some College,>=400% FPL,Yes,2.7,194
+NYC0072,Manhattan,18-24,Male,Less than High School,200-399% FPL,No,0.9,97
+NYC0073,Queens,18-24,Female,Less than High School,>=400% FPL,Yes,3.1,195
+NYC0074,Queens,45-64,Female,High School Graduate,>=400% FPL,Yes,1.7,189
+NYC0075,Staten Island,25-44,Male,Some College,100-199% FPL,Yes,0.6,182
+NYC0076,Brooklyn,65+,Female,Some College,100-199% FPL,Yes,2.4,228
+NYC0077,Manhattan,25-44,Male,Less than High School,100-199% FPL,Yes,2.5,158
+NYC0078,Queens,18-24,Male,Less than High School,100-199% FPL,Yes,1.1,223
+NYC0079,Bronx,18-24,Female,College Graduate,<100% FPL,Yes,0.3,113
+NYC0080,Queens,45-64,Female,High School Graduate,200-399% FPL,No,0.5,38
+NYC0081,Staten Island,25-44,Male,High School Graduate,<100% FPL,No,1.2,56
+NYC0082,Staten Island,25-44,Female,College Graduate,200-399% FPL,Yes,1.2,163
+NYC0083,Brooklyn,25-44,Female,Some College,<100% FPL,No,0.7,76
+NYC0084,Queens,65+,Male,College Graduate,>=400% FPL,Yes,1.4,180
+NYC0085,Queens,65+,Female,Less than High School,>=400% FPL,Yes,2.0,193
+NYC0086,Manhattan,65+,Male,High School Graduate,200-399% FPL,Yes,2.2,184
+NYC0087,Bronx,25-44,Female,Some College,100-199% FPL,Yes,1.2,173
+NYC0088,Staten Island,18-24,Female,High School Graduate,200-399% FPL,Yes,1.9,141
+NYC0089,Brooklyn,65+,Female,High School Graduate,>=400% FPL,Yes,2.3,229
+NYC0090,Bronx,65+,Male,Less than High School,<100% FPL,No,0.4,125
+NYC0091,Staten Island,18-24,Male,Some College,200-399% FPL,Yes,2.1,193
+NYC0092,Queens,45-64,Female,High School Graduate,100-199% FPL,Yes,1.1,144
+NYC0093,Bronx,65+,Female,Less than High School,200-399% FPL,No,2.1,105
+NYC0094,Manhattan,25-44,Female,College Graduate,>=400% FPL,Yes,1.6,201
+NYC0095,Manhattan,18-24,Male,Less than High School,<100% FPL,No,1.2,93
+NYC0096,Bronx,65+,Male,College Graduate,>=400% FPL,Yes,2.2,144
+NYC0097,Bronx,18-24,Female,High School Graduate,>=400% FPL,Yes,3.0,82
+NYC0098,Queens,65+,Female,College Graduate,100-199% FPL,No,1.0,12
+NYC0099,Staten Island,45-64,Female,Some College,>=400% FPL,No,3.3,54
+NYC0100,Manhattan,18-24,Female,College Graduate,>=400% FPL,Yes,2.6,206
+NYC0101,Queens,18-24,Female,Some College,100-199% FPL,Yes,0.7,136
+NYC0102,Bronx,45-64,Male,Some College,>=400% FPL,Yes,2.3,195
+NYC0103,Manhattan,18-24,Male,Less than High School,<100% FPL,Yes,1.3,117
+NYC0104,Queens,65+,Female,Some College,200-399% FPL,Yes,2.1,163
+NYC0105,Brooklyn,45-64,Male,College Graduate,100-199% FPL,Yes,0.5,177
+NYC0106,Staten Island,25-44,Male,High School Graduate,>=400% FPL,Yes,2.3,119
+NYC0107,Manhattan,65+,Male,College Graduate,100-199% FPL,Yes,1.0,117
+NYC0108,Bronx,25-44,Male,College Graduate,200-399% FPL,Yes,1.5,144
+NYC0109,Manhattan,45-64,Female,Some College,200-399% FPL,Yes,2.4,68
+NYC0110,Staten Island,25-44,Female,High School Graduate,100-199% FPL,Yes,2.3,147
+NYC0111,Bronx,25-44,Male,Some College,100-199% FPL,Yes,1.0,100
+NYC0112,Bronx,45-64,Male,Some College,<100% FPL,No,1.4,140
+NYC0113,Staten Island,18-24,Female,High School Graduate,<100% FPL,No,1.1,185
+NYC0114,Manhattan,65+,Male,High School Graduate,100-199% FPL,Yes,2.4,81
+NYC0115,Staten Island,25-44,Female,Less than High School,100-199% FPL,Yes,3.0,151
+NYC0116,Bronx,45-64,Female,Some College,200-399% FPL,Yes,3.1,168
+NYC0117,Queens,18-24,Male,Less than High School,>=400% FPL,Yes,2.5,123
+NYC0118,Staten Island,18-24,Male,College Graduate,200-399% FPL,Yes,1.8,179
+NYC0119,Bronx,18-24,Female,College Graduate,100-199% FPL,Yes,0.9,225
+NYC0120,Manhattan,65+,Female,College Graduate,200-399% FPL,Yes,1.2,112
+NYC0121,Queens,45-64,Male,Some College,100-199% FPL,Yes,1.1,183
+NYC0122,Queens,65+,Male,Some College,<100% FPL,Yes,0.6,98
+NYC0123,Brooklyn,25-44,Male,College Graduate,100-199% FPL,Yes,1.8,184
+NYC0124,Queens,45-64,Male,College Graduate,>=400% FPL,Yes,2.2,115
+NYC0125,Bronx,45-64,Male,College Graduate,100-199% FPL,Yes,1.1,219
+NYC0126,Brooklyn,25-44,Male,Some College,200-399% FPL,No,1.5,68
+NYC0127,Bronx,45-64,Male,Less than High School,200-399% FPL,Yes,2.1,162
+NYC0128,Queens,45-64,Male,Less than High School,<100% FPL,No,1.6,45
+NYC0129,Bronx,45-64,Female,College Graduate,100-199% FPL,Yes,0.4,181
+NYC0130,Queens,65+,Female,High School Graduate,200-399% FPL,Yes,2.0,149
+NYC0131,Queens,45-64,Female,College Graduate,200-399% FPL,Yes,1.8,102
+NYC0132,Staten Island,18-24,Male,College Graduate,>=400% FPL,Yes,2.6,205
+NYC0133,Brooklyn,45-64,Male,High School Graduate,200-399% FPL,Yes,2.3,211
+NYC0134,Staten Island,65+,Female,High School Graduate,>=400% FPL,Yes,2.2,219
+NYC0135,Bronx,25-44,Female,College Graduate,100-199% FPL,No,1.1,74
+NYC0136,Staten Island,65+,Male,High School Graduate,100-199% FPL,No,0.9,85
+NYC0137,Staten Island,65+,Female,High School Graduate,>=400% FPL,Yes,3.3,111
+NYC0138,Brooklyn,65+,Male,College Graduate,200-399% FPL,Yes,1.6,173
+NYC0139,Bronx,65+,Male,Less than High School,100-199% FPL,Yes,1.1,111
+NYC0140,Queens,45-64,Male,Less than High School,<100% FPL,No,2.6,54
+NYC0141,Brooklyn,45-64,Female,Some College,<100% FPL,No,0.9,97
+NYC0142,Manhattan,65+,Female,Some College,200-399% FPL,Yes,1.8,119
+NYC0143,Brooklyn,65+,Male,High School Graduate,>=400% FPL,Yes,2.3,148
+NYC0144,Staten Island,65+,Female,Less than High School,200-399% FPL,Yes,1.1,80
+NYC0145,Bronx,25-44,Female,Some College,>=400% FPL,Yes,2.9,220
+NYC0146,Queens,65+,Female,High School Graduate,200-399% FPL,Yes,1.9,45
+NYC0147,Queens,45-64,Female,Less than High School,200-399% FPL,No,2.1,74
+NYC0148,Bronx,65+,Male,College Graduate,<100% FPL,Yes,1.2,198
+NYC0149,Staten Island,18-24,Female,Less than High School,>=400% FPL,Yes,2.0,75
+NYC0150,Brooklyn,65+,Male,Less than High School,100-199% FPL,Yes,2.2,134
+NYC0151,Staten Island,45-64,Male,High School Graduate,<100% FPL,No,1.8,69
+NYC0152,Manhattan,45-64,Male,Some College,<100% FPL,No,2.3,165
+NYC0153,Queens,45-64,Female,Some College,<100% FPL,Yes,0.4,110
+NYC0154,Bronx,25-44,Female,College Graduate,200-399% FPL,No,1.2,32
+NYC0155,Brooklyn,18-24,Male,High School Graduate,>=400% FPL,No,1.8,160
+NYC0156,Brooklyn,18-24,Female,College Graduate,<100% FPL,Yes,1.8,167
+NYC0157,Queens,65+,Male,College Graduate,200-399% FPL,Yes,2.2,121
+NYC0158,Bronx,18-24,Male,Less than High School,100-199% FPL,No,1.9,38
+NYC0159,Bronx,65+,Male,Some College,<100% FPL,No,2.1,76
+NYC0160,Staten Island,25-44,Female,High School Graduate,<100% FPL,Yes,1.5,111
+NYC0161,Staten Island,18-24,Female,College Graduate,200-399% FPL,Yes,1.9,99
+NYC0162,Staten Island,45-64,Male,Some College,<100% FPL,Yes,1.4,128
+NYC0163,Bronx,25-44,Female,College Graduate,<100% FPL,Yes,1.7,109
+NYC0164,Bronx,65+,Male,Less than High School,100-199% FPL,Yes,1.7,172
+NYC0165,Manhattan,18-24,Female,College Graduate,<100% FPL,Yes,1.1,127
+NYC0166,Bronx,25-44,Female,College Graduate,<100% FPL,No,0.6,99
+NYC0167,Manhattan,65+,Female,Some College,100-199% FPL,Yes,0.2,58
+NYC0168,Queens,65+,Female,High School Graduate,100-199% FPL,Yes,0.9,130
+NYC0169,Brooklyn,25-44,Female,College Graduate,<100% FPL,No,0.6,160
+NYC0170,Manhattan,45-64,Female,Less than High School,>=400% FPL,No,1.9,50
+NYC0171,Staten Island,45-64,Male,Some College,>=400% FPL,Yes,2.7,181
+NYC0172,Bronx,18-24,Male,Some College,<100% FPL,No,1.5,113
+NYC0173,Brooklyn,45-64,Male,Some College,100-199% FPL,Yes,2.0,202
+NYC0174,Queens,65+,Male,Some College,200-399% FPL,Yes,1.5,167
+NYC0175,Staten Island,18-24,Female,Less than High School,100-199% FPL,Yes,0.7,203
+NYC0176,Bronx,45-64,Female,High School Graduate,>=400% FPL,No,1.5,89
+NYC0177,Manhattan,18-24,Male,College Graduate,<100% FPL,Yes,0.0,175
+NYC0178,Bronx,65+,Male,College Graduate,200-399% FPL,Yes,1.9,59
+NYC0179,Bronx,65+,Female,Some College,>=400% FPL,Yes,1.7,141
+NYC0180,Staten Island,65+,Female,High School Graduate,<100% FPL,No,0.8,112
+NYC0181,Staten Island,25-44,Female,College Graduate,<100% FPL,No,1.7,145
+NYC0182,Brooklyn,45-64,Male,Some College,200-399% FPL,Yes,1.1,117
+NYC0183,Queens,25-44,Female,Some College,<100% FPL,Yes,1.3,160
+NYC0184,Staten Island,25-44,Male,High School Graduate,>=400% FPL,Yes,1.9,168
+NYC0185,Queens,45-64,Male,High School Graduate,200-399% FPL,Yes,2.8,120
+NYC0186,Manhattan,18-24,Male,College Graduate,>=400% FPL,Yes,1.5,117
+NYC0187,Manhattan,65+,Female,Less than High School,>=400% FPL,No,1.6,124
+NYC0188,Bronx,45-64,Female,High School Graduate,<100% FPL,No,1.6,174
+NYC0189,Staten Island,18-24,Male,Some College,200-399% FPL,Yes,2.3,194
+NYC0190,Bronx,45-64,Female,Less than High School,100-199% FPL,Yes,0.5,113
+NYC0191,Manhattan,65+,Female,Some College,200-399% FPL,Yes,1.9,108
+NYC0192,Brooklyn,65+,Male,Less than High School,<100% FPL,Yes,0.6,160
+NYC0193,Manhattan,18-24,Male,Less than High School,>=400% FPL,Yes,3.1,122
+NYC0194,Staten Island,18-24,Female,Some College,100-199% FPL,No,1.2,145
+NYC0195,Bronx,18-24,Male,College Graduate,200-399% FPL,Yes,1.8,124
+NYC0196,Brooklyn,65+,Male,College Graduate,>=400% FPL,Yes,2.4,170
+NYC0197,Staten Island,65+,Female,College Graduate,<100% FPL,Yes,1.8,254
+NYC0198,Staten Island,25-44,Female,College Graduate,100-199% FPL,No,1.6,0
+NYC0199,Staten Island,65+,Male,Less than High School,200-399% FPL,Yes,1.9,20
+NYC0200,Bronx,25-44,Male,Some College,200-399% FPL,Yes,1.2,207
+NYC0201,Staten Island,45-64,Male,Some College,200-399% FPL,Yes,1.5,130
+NYC0202,Queens,65+,Male,High School Graduate,200-399% FPL,Yes,1.4,142
+NYC0203,Queens,18-24,Female,High School Graduate,>=400% FPL,Yes,3.6,279
+NYC0204,Staten Island,18-24,Male,College Graduate,100-199% FPL,Yes,1.6,150
+NYC0205,Bronx,65+,Male,Less than High School,100-199% FPL,Yes,1.8,184
+NYC0206,Manhattan,25-44,Female,Some College,<100% FPL,Yes,1.1,82
+NYC0207,Bronx,25-44,Male,Less than High School,<100% FPL,Yes,0.4,173
+NYC0208,Brooklyn,18-24,Male,High School Graduate,100-199% FPL,Yes,1.6,130
+NYC0209,Staten Island,18-24,Male,Less than High School,100-199% FPL,Yes,1.2,169
+NYC0210,Bronx,25-44,Male,Some College,100-199% FPL,Yes,0.1,211
+NYC0211,Bronx,45-64,Female,High School Graduate,100-199% FPL,Yes,1.6,110
+NYC0212,Manhattan,18-24,Female,Less than High School,>=400% FPL,No,1.7,95
+NYC0213,Brooklyn,25-44,Male,High School Graduate,200-399% FPL,Yes,2.1,216
+NYC0214,Queens,18-24,Female,College Graduate,200-399% FPL,Yes,1.6,107
+NYC0215,Bronx,18-24,Male,Less than High School,100-199% FPL,Yes,2.4,149
+NYC0216,Manhattan,45-64,Male,Less than High School,200-399% FPL,Yes,1.4,143
+NYC0217,Staten Island,45-64,Female,Some College,<100% FPL,Yes,0.7,196
+NYC0218,Bronx,45-64,Male,Less than High School,200-399% FPL,No,2.3,53
+NYC0219,Bronx,65+,Male,Some College,200-399% FPL,Yes,2.1,107
+NYC0220,Manhattan,65+,Female,Less than High School,<100% FPL,Yes,0.9,179
+NYC0221,Manhattan,18-24,Male,Less than High School,200-399% FPL,Yes,1.5,156
+NYC0222,Bronx,25-44,Male,College Graduate,100-199% FPL,No,0.5,76
+NYC0223,Brooklyn,65+,Female,High School Graduate,>=400% FPL,No,2.8,99
+NYC0224,Manhattan,45-64,Male,High School Graduate,<100% FPL,Yes,0.4,167
+NYC0225,Brooklyn,65+,Male,Less than High School,200-399% FPL,Yes,1.3,166
+NYC0226,Brooklyn,18-24,Male,High School Graduate,200-399% FPL,No,1.4,126
+NYC0227,Bronx,45-64,Female,College Graduate,<100% FPL,Yes,2.0,180
+NYC0228,Staten Island,45-64,Male,College Graduate,<100% FPL,Yes,2.0,157
+NYC0229,Manhattan,18-24,Male,College Graduate,100-199% FPL,Yes,0.8,144
+NYC0230,Staten Island,65+,Male,Some College,200-399% FPL,Yes,1.2,259
+NYC0231,Staten Island,18-24,Female,College Graduate,>=400% FPL,Yes,1.8,89
+NYC0232,Queens,45-64,Female,College Graduate,>=400% FPL,Yes,1.3,130
+NYC0233,Manhattan,25-44,Male,Some College,>=400% FPL,Yes,1.3,194
+NYC0234,Queens,45-64,Female,Less than High School,200-399% FPL,Yes,2.7,108
+NYC0235,Staten Island,65+,Female,Some College,>=400% FPL,Yes,3.1,158
+NYC0236,Brooklyn,65+,Female,Less than High School,100-199% FPL,Yes,1.4,144
+NYC0237,Queens,18-24,Male,College Graduate,>=400% FPL,Yes,1.0,141
+NYC0238,Brooklyn,45-64,Female,College Graduate,<100% FPL,No,0.4,58
+NYC0239,Bronx,45-64,Male,High School Graduate,200-399% FPL,Yes,2.1,123
+NYC0240,Staten Island,65+,Male,High School Graduate,200-399% FPL,Yes,2.2,169
+NYC0241,Brooklyn,25-44,Female,Less than High School,<100% FPL,Yes,1.2,157
+NYC0242,Manhattan,25-44,Male,Less than High School,<100% FPL,Yes,0.4,256
+NYC0243,Staten Island,18-24,Female,Less than High School,>=400% FPL,Yes,2.0,144
+NYC0244,Staten Island,18-24,Female,Less than High School,200-399% FPL,Yes,1.6,270
+NYC0245,Manhattan,45-64,Female,Some College,100-199% FPL,Yes,1.2,157
+NYC0246,Manhattan,45-64,Female,Less than High School,100-199% FPL,Yes,1.9,191
+NYC0247,Staten Island,45-64,Female,College Graduate,>=400% FPL,Yes,1.3,149
+NYC0248,Queens,65+,Female,Some College,200-399% FPL,Yes,2.1,150
+NYC0249,Manhattan,18-24,Male,High School Graduate,<100% FPL,Yes,1.7,100
+NYC0250,Manhattan,25-44,Male,High School Graduate,<100% FPL,Yes,1.1,219
+NYC0251,Brooklyn,25-44,Male,College Graduate,100-199% FPL,Yes,1.6,195
+NYC0252,Staten Island,18-24,Female,Some College,200-399% FPL,Yes,1.6,215
+NYC0253,Bronx,45-64,Female,Less than High School,200-399% FPL,Yes,1.4,213
+NYC0254,Staten Island,25-44,Female,College Graduate,>=400% FPL,No,1.9,131
+NYC0255,Brooklyn,45-64,Male,Some College,100-199% FPL,Yes,0.7,112
+NYC0256,Staten Island,18-24,Female,Less than High School,>=400% FPL,Yes,2.4,265
+NYC0257,Staten Island,25-44,Female,College Graduate,<100% FPL,Yes,1.5,184
+NYC0258,Bronx,18-24,Female,College Graduate,200-399% FPL,Yes,2.2,194
+NYC0259,Manhattan,25-44,Female,Less than High School,<100% FPL,Yes,0.7,185
+NYC0260,Staten Island,18-24,Female,Some College,>=400% FPL,Yes,2.5,140
+NYC0261,Manhattan,65+,Male,Less than High School,<100% FPL,No,1.3,97
+NYC0262,Brooklyn,18-24,Male,Some College,200-399% FPL,Yes,0.8,108
+NYC0263,Brooklyn,25-44,Female,High School Graduate,200-399% FPL,Yes,1.2,186
+NYC0264,Bronx,65+,Male,Less than High School,200-399% FPL,Yes,1.8,48
+NYC0265,Bronx,65+,Female,College Graduate,100-199% FPL,Yes,2.3,211
+NYC0266,Manhattan,45-64,Male,College Graduate,>=400% FPL,Yes,3.1,190
+NYC0267,Bronx,65+,Male,Less than High School,>=400% FPL,Yes,2.4,204
+NYC0268,Bronx,45-64,Female,College Graduate,200-399% FPL,Yes,0.9,88
+NYC0269,Bronx,65+,Male,Less than High School,200-399% FPL,Yes,2.1,84
+NYC0270,Staten Island,25-44,Female,Less than High School,>=400% FPL,Yes,2.8,111
+NYC0271,Staten Island,18-24,Female,Some College,200-399% FPL,Yes,2.7,93
+NYC0272,Staten Island,18-24,Male,Less than High School,<100% FPL,No,1.0,109
+NYC0273,Staten Island,18-24,Female,Some College,100-199% FPL,Yes,1.3,146
+NYC0274,Manhattan,18-24,Female,High School Graduate,100-199% FPL,Yes,0.6,72
+NYC0275,Manhattan,45-64,Female,College Graduate,>=400% FPL,Yes,1.3,109
+NYC0276,Manhattan,65+,Male,Less than High School,>=400% FPL,Yes,1.9,178
+NYC0277,Queens,65+,Female,High School Graduate,200-399% FPL,No,1.0,193
+NYC0278,Staten Island,25-44,Male,College Graduate,>=400% FPL,No,1.7,118
+NYC0279,Manhattan,25-44,Male,Some College,200-399% FPL,Yes,1.3,267
+NYC0280,Bronx,45-64,Female,College Graduate,200-399% FPL,Yes,1.4,150
+NYC0281,Manhattan,45-64,Male,Less than High School,200-399% FPL,Yes,1.2,256
+NYC0282,Brooklyn,18-24,Female,Less than High School,<100% FPL,Yes,0.9,136
+NYC0283,Brooklyn,25-44,Male,Some College,<100% FPL,Yes,1.2,133
+NYC0284,Queens,65+,Male,College Graduate,200-399% FPL,Yes,2.5,169
+NYC0285,Staten Island,45-64,Female,Some College,200-399% FPL,Yes,1.2,94
+NYC0286,Manhattan,18-24,Male,Less than High School,200-399% FPL,Yes,2.0,106
+NYC0287,Manhattan,25-44,Female,Some College,>=400% FPL,Yes,2.5,159
+NYC0288,Queens,25-44,Female,Less than High School,>=400% FPL,Yes,2.9,154
+NYC0289,Brooklyn,25-44,Male,Some College,>=400% FPL,Yes,2.0,157
+NYC0290,Staten Island,65+,Female,Less than High School,200-399% FPL,No,1.2,158
+NYC0291,Bronx,18-24,Male,Some College,100-199% FPL,Yes,1.8,235
+NYC0292,Brooklyn,65+,Male,Some College,>=400% FPL,Yes,2.1,134
+NYC0293,Manhattan,18-24,Female,Some College,>=400% FPL,Yes,2.3,171
+NYC0294,Staten Island,25-44,Male,College Graduate,200-399% FPL,Yes,1.5,144
+NYC0295,Staten Island,65+,Female,Less than High School,>=400% FPL,Yes,2.5,71
+NYC0296,Brooklyn,25-44,Female,College Graduate,>=400% FPL,Yes,3.0,174
+NYC0297,Queens,18-24,Male,Some College,>=400% FPL,No,2.7,139
+NYC0298,Brooklyn,45-64,Male,Some College,100-199% FPL,Yes,2.1,91
+NYC0299,Queens,45-64,Male,High School Graduate,100-199% FPL,Yes,1.2,138
+NYC0300,Brooklyn,25-44,Female,College Graduate,<100% FPL,Yes,0.6,134
+NYC0301,Staten Island,45-64,Male,College Graduate,<100% FPL,Yes,1.0,92
+NYC0302,Queens,18-24,Female,Less than High School,100-199% FPL,Yes,2.0,126
+NYC0303,Bronx,45-64,Female,High School Graduate,200-399% FPL,Yes,1.0,182
+NYC0304,Manhattan,45-64,Male,College Graduate,200-399% FPL,Yes,1.8,184
+NYC0305,Queens,25-44,Female,High School Graduate,200-399% FPL,Yes,1.7,91
+NYC0306,Bronx,18-24,Male,High School Graduate,>=400% FPL,Yes,2.1,79
+NYC0307,Brooklyn,65+,Male,Some College,<100% FPL,Yes,0.9,37
+NYC0308,Queens,65+,Female,College Graduate,<100% FPL,No,1.4,207
+NYC0309,Staten Island,18-24,Male,Less than High School,200-399% FPL,Yes,1.5,183
+NYC0310,Brooklyn,45-64,Male,Some College,200-399% FPL,Yes,1.9,71
+NYC0311,Queens,18-24,Female,High School Graduate,100-199% FPL,Yes,0.9,67
+NYC0312,Staten Island,45-64,Male,College Graduate,>=400% FPL,No,2.9,179
+NYC0313,Brooklyn,18-24,Female,Some College,>=400% FPL,Yes,2.4,240
+NYC0314,Manhattan,45-64,Female,College Graduate,>=400% FPL,Yes,2.1,123
+NYC0315,Queens,65+,Male,Some College,100-199% FPL,Yes,2.5,146
+NYC0316,Brooklyn,25-44,Female,High School Graduate,100-199% FPL,Yes,1.2,91
+NYC0317,Manhattan,45-64,Male,College Graduate,<100% FPL,Yes,1.9,120
+NYC0318,Queens,25-44,Female,College Graduate,<100% FPL,No,0.1,110
+NYC0319,Staten Island,18-24,Female,College Graduate,>=400% FPL,Yes,1.8,98
+NYC0320,Brooklyn,45-64,Male,College Graduate,>=400% FPL,Yes,2.1,228
+NYC0321,Manhattan,18-24,Female,High School Graduate,>=400% FPL,Yes,2.9,243
+NYC0322,Staten Island,65+,Male,College Graduate,>=400% FPL,Yes,2.0,169
+NYC0323,Bronx,65+,Female,College Graduate,<100% FPL,Yes,0.9,159
+NYC0324,Queens,18-24,Male,High School Graduate,<100% FPL,No,1.5,142
+NYC0325,Brooklyn,65+,Female,College Graduate,>=400% FPL,Yes,1.8,151
+NYC0326,Manhattan,65+,Female,Some College,<100% FPL,Yes,1.9,117
+NYC0327,Staten Island,45-64,Female,High School Graduate,200-399% FPL,Yes,1.6,235
+NYC0328,Staten Island,18-24,Male,High School Graduate,<100% FPL,No,0.7,67
+NYC0329,Brooklyn,45-64,Female,Less than High School,>=400% FPL,Yes,2.4,134
+NYC0330,Bronx,45-64,Male,Less than High School,<100% FPL,No,0.3,158
+NYC0331,Queens,18-24,Male,High School Graduate,100-199% FPL,Yes,0.9,111
+NYC0332,Brooklyn,65+,Female,High School Graduate,100-199% FPL,Yes,1.2,177
+NYC0333,Bronx,45-64,Male,Less than High School,<100% FPL,Yes,1.2,134
+NYC0334,Bronx,45-64,Male,High School Graduate,>=400% FPL,Yes,2.5,112
+NYC0335,Bronx,65+,Male,Less than High School,<100% FPL,Yes,0.7,149
+NYC0336,Bronx,45-64,Male,Some College,<100% FPL,No,1.4,50
+NYC0337,Staten Island,18-24,Male,College Graduate,<100% FPL,No,1.7,49
+NYC0338,Staten Island,25-44,Female,Some College,200-399% FPL,Yes,2.0,146
+NYC0339,Staten Island,25-44,Male,Some College,100-199% FPL,Yes,1.8,118
+NYC0340,Bronx,45-64,Male,Less than High School,<100% FPL,No,1.6,119
+NYC0341,Staten Island,65+,Female,College Graduate,>=400% FPL,Yes,3.3,190
+NYC0342,Manhattan,65+,Male,Some College,<100% FPL,Yes,1.3,211
+NYC0343,Staten Island,25-44,Female,Some College,100-199% FPL,Yes,1.9,108
+NYC0344,Bronx,45-64,Female,College Graduate,100-199% FPL,Yes,1.2,162
+NYC0345,Staten Island,45-64,Male,Less than High School,>=400% FPL,Yes,3.0,151
+NYC0346,Brooklyn,65+,Male,College Graduate,200-399% FPL,No,1.6,204
+NYC0347,Staten Island,25-44,Female,College Graduate,100-199% FPL,Yes,1.4,124
+NYC0348,Staten Island,45-64,Female,Some College,>=400% FPL,Yes,2.0,75
+NYC0349,Brooklyn,18-24,Male,Some College,200-399% FPL,Yes,2.0,138
+NYC0350,Staten Island,65+,Female,Some College,100-199% FPL,Yes,1.2,112
+NYC0351,Bronx,25-44,Female,High School Graduate,>=400% FPL,No,1.6,24
+NYC0352,Manhattan,45-64,Male,College Graduate,100-199% FPL,Yes,2.3,207
+NYC0353,Brooklyn,65+,Male,Less than High School,200-399% FPL,Yes,1.9,209
+NYC0354,Queens,45-64,Male,Less than High School,100-199% FPL,No,1.1,124
+NYC0355,Staten Island,25-44,Female,Some College,200-399% FPL,Yes,1.4,145
+NYC0356,Bronx,45-64,Female,Some College,<100% FPL,No,1.6,151
+NYC0357,Brooklyn,65+,Female,College Graduate,>=400% FPL,Yes,1.7,215
+NYC0358,Brooklyn,45-64,Female,High School Graduate,>=400% FPL,Yes,2.2,144
+NYC0359,Manhattan,65+,Female,High School Graduate,>=400% FPL,Yes,1.5,98
+NYC0360,Manhattan,65+,Male,High School Graduate,>=400% FPL,Yes,1.9,147
+NYC0361,Queens,65+,Female,Less than High School,200-399% FPL,No,2.3,19
+NYC0362,Brooklyn,25-44,Female,Some College,100-199% FPL,Yes,0.6,117
+NYC0363,Manhattan,45-64,Male,Some College,100-199% FPL,Yes,1.1,108
+NYC0364,Manhattan,45-64,Female,High School Graduate,200-399% FPL,Yes,1.4,199
+NYC0365,Brooklyn,25-44,Male,College Graduate,100-199% FPL,Yes,1.8,105
+NYC0366,Manhattan,65+,Male,Less than High School,<100% FPL,No,1.6,181
+NYC0367,Brooklyn,45-64,Female,High School Graduate,>=400% FPL,Yes,2.0,129
+NYC0368,Staten Island,25-44,Female,Some College,>=400% FPL,No,3.5,46
+NYC0369,Manhattan,18-24,Male,Less than High School,200-399% FPL,Yes,2.3,136
+NYC0370,Brooklyn,45-64,Male,High School Graduate,>=400% FPL,Yes,1.5,124
+NYC0371,Staten Island,65+,Male,Less than High School,<100% FPL,Yes,0.7,123
+NYC0372,Brooklyn,45-64,Male,Less than High School,>=400% FPL,Yes,3.0,120
+NYC0373,Brooklyn,25-44,Female,Less than High School,>=400% FPL,Yes,2.3,249
+NYC0374,Manhattan,45-64,Female,High School Graduate,<100% FPL,Yes,2.2,150
+NYC0375,Brooklyn,25-44,Male,College Graduate,200-399% FPL,Yes,1.1,128
+NYC0376,Queens,45-64,Female,High School Graduate,100-199% FPL,No,1.0,84
+NYC0377,Manhattan,65+,Male,College Graduate,200-399% FPL,Yes,2.3,193
+NYC0378,Staten Island,65+,Female,Some College,<100% FPL,Yes,0.9,216
+NYC0379,Manhattan,65+,Male,Less than High School,200-399% FPL,Yes,2.5,48
+NYC0380,Manhattan,18-24,Female,College Graduate,<100% FPL,No,2.2,130
+NYC0381,Queens,45-64,Female,Some College,>=400% FPL,Yes,1.6,215
+NYC0382,Staten Island,45-64,Male,College Graduate,<100% FPL,Yes,1.1,193
+NYC0383,Brooklyn,25-44,Female,High School Graduate,<100% FPL,Yes,1.6,109
+NYC0384,Staten Island,45-64,Male,Less than High School,100-199% FPL,Yes,2.3,158
+NYC0385,Queens,45-64,Female,College Graduate,<100% FPL,Yes,0.6,208
+NYC0386,Manhattan,18-24,Female,Less than High School,200-399% FPL,Yes,2.4,91
+NYC0387,Brooklyn,25-44,Male,College Graduate,100-199% FPL,Yes,0.8,143
+NYC0388,Queens,18-24,Female,High School Graduate,100-199% FPL,No,0.8,160
+NYC0389,Manhattan,25-44,Female,Some College,100-199% FPL,Yes,2.0,163
+NYC0390,Staten Island,65+,Female,Less than High School,>=400% FPL,No,2.6,0
+NYC0391,Staten Island,65+,Female,Some College,>=400% FPL,Yes,2.3,162
+NYC0392,Bronx,65+,Male,High School Graduate,100-199% FPL,Yes,1.1,134
+NYC0393,Brooklyn,18-24,Male,Some College,100-199% FPL,Yes,2.0,119
+NYC0394,Queens,65+,Female,High School Graduate,>=400% FPL,Yes,3.3,210
+NYC0395,Brooklyn,18-24,Female,Less than High School,<100% FPL,No,2.1,65
+NYC0396,Queens,18-24,Female,Some College,<100% FPL,Yes,1.7,167
+NYC0397,Queens,65+,Male,High School Graduate,100-199% FPL,Yes,0.7,230
+NYC0398,Queens,18-24,Male,High School Graduate,>=400% FPL,Yes,2.0,245
+NYC0399,Queens,45-64,Female,Some College,100-199% FPL,Yes,1.4,147
+NYC0400,Brooklyn,18-24,Female,Some College,>=400% FPL,Yes,1.9,113
+NYC0401,Manhattan,18-24,Male,Less than High School,<100% FPL,No,1.2,87
+NYC0402,Bronx,18-24,Female,High School Graduate,200-399% FPL,Yes,2.0,53
+NYC0403,Brooklyn,25-44,Male,College Graduate,<100% FPL,No,1.7,136
+NYC0404,Queens,25-44,Male,College Graduate,<100% FPL,Yes,1.5,174
+NYC0405,Staten Island,18-24,Female,College Graduate,200-399% FPL,Yes,2.0,139
+NYC0406,Manhattan,25-44,Male,College Graduate,>=400% FPL,Yes,2.6,114
+NYC0407,Brooklyn,65+,Female,High School Graduate,>=400% FPL,No,2.8,78
+NYC0408,Bronx,65+,Female,College Graduate,>=400% FPL,Yes,2.6,116
+NYC0409,Brooklyn,18-24,Female,Less than High School,200-399% FPL,Yes,2.2,244
+NYC0410,Queens,25-44,Female,Some College,>=400% FPL,Yes,3.0,166
+NYC0411,Queens,18-24,Male,Less than High School,<100% FPL,Yes,1.2,142
+NYC0412,Brooklyn,45-64,Female,College Graduate,200-399% FPL,Yes,2.3,114
+NYC0413,Bronx,65+,Female,College Graduate,100-199% FPL,Yes,2.5,149
+NYC0414,Manhattan,45-64,Female,Less than High School,>=400% FPL,Yes,1.9,246
+NYC0415,Brooklyn,25-44,Female,Some College,>=400% FPL,Yes,2.2,139
+NYC0416,Staten Island,18-24,Female,Less than High School,>=400% FPL,Yes,2.1,83
+NYC0417,Manhattan,25-44,Male,College Graduate,200-399% FPL,Yes,2.2,315
+NYC0418,Staten Island,18-24,Male,College Graduate,200-399% FPL,Yes,2.0,120
+NYC0419,Bronx,45-64,Female,High School Graduate,<100% FPL,No,1.3,179
+NYC0420,Queens,45-64,Male,Some College,200-399% FPL,Yes,1.7,167
+NYC0421,Staten Island,25-44,Male,College Graduate,100-199% FPL,Yes,2.3,93
+NYC0422,Manhattan,45-64,Male,College Graduate,200-399% FPL,Yes,2.2,201
+NYC0423,Manhattan,65+,Male,Some College,200-399% FPL,Yes,2.2,109
+NYC0424,Manhattan,18-24,Female,Less than High School,100-199% FPL,Yes,1.6,255
+NYC0425,Staten Island,18-24,Female,High School Graduate,100-199% FPL,No,1.1,124
+NYC0426,Queens,25-44,Female,Less than High School,200-399% FPL,Yes,1.7,159
+NYC0427,Bronx,25-44,Male,Some College,>=400% FPL,Yes,2.0,167
+NYC0428,Bronx,18-24,Female,High School Graduate,>=400% FPL,No,2.7,129
+NYC0429,Queens,18-24,Female,Some College,<100% FPL,No,0.8,104
+NYC0430,Brooklyn,25-44,Female,Some College,100-199% FPL,Yes,2.5,121
+NYC0431,Brooklyn,45-64,Female,Some College,>=400% FPL,Yes,2.7,226
+NYC0432,Brooklyn,18-24,Male,College Graduate,200-399% FPL,Yes,2.0,119
+NYC0433,Staten Island,18-24,Female,High School Graduate,100-199% FPL,No,0.9,169
+NYC0434,Staten Island,65+,Female,Some College,200-399% FPL,Yes,3.5,161
+NYC0435,Queens,65+,Male,Some College,>=400% FPL,Yes,2.6,165
+NYC0436,Manhattan,65+,Female,Some College,>=400% FPL,No,2.2,85
+NYC0437,Brooklyn,25-44,Male,High School Graduate,200-399% FPL,Yes,2.1,126
+NYC0438,Staten Island,25-44,Female,College Graduate,<100% FPL,No,0.3,82
+NYC0439,Queens,65+,Female,High School Graduate,100-199% FPL,Yes,1.1,228
+NYC0440,Staten Island,25-44,Female,College Graduate,<100% FPL,No,2.0,195
+NYC0441,Brooklyn,45-64,Male,Some College,>=400% FPL,Yes,2.4,143
+NYC0442,Queens,45-64,Female,Less than High School,<100% FPL,Yes,1.3,210
+NYC0443,Manhattan,25-44,Female,College Graduate,100-199% FPL,Yes,2.0,208
+NYC0444,Queens,18-24,Female,Some College,100-199% FPL,Yes,1.4,128
+NYC0445,Manhattan,45-64,Male,Some College,<100% FPL,Yes,0.6,78
+NYC0446,Staten Island,65+,Male,Less than High School,<100% FPL,No,2.7,98
+NYC0447,Manhattan,45-64,Male,Some College,200-399% FPL,Yes,2.8,147
+NYC0448,Bronx,18-24,Female,High School Graduate,200-399% FPL,Yes,1.8,147
+NYC0449,Manhattan,18-24,Male,College Graduate,100-199% FPL,No,0.9,89
+NYC0450,Manhattan,18-24,Female,Less than High School,100-199% FPL,Yes,2.3,201
+NYC0451,Bronx,25-44,Male,High School Graduate,>=400% FPL,Yes,3.1,164
+NYC0452,Queens,18-24,Female,Less than High School,100-199% FPL,Yes,2.1,179
+NYC0453,Staten Island,65+,Male,Some College,<100% FPL,No,1.3,133
+NYC0454,Manhattan,65+,Male,Less than High School,100-199% FPL,Yes,1.6,180
+NYC0455,Manhattan,25-44,Male,Some College,200-399% FPL,Yes,1.6,73
+NYC0456,Bronx,45-64,Male,High School Graduate,>=400% FPL,Yes,3.1,180
+NYC0457,Bronx,65+,Male,High School Graduate,>=400% FPL,Yes,2.4,16
+NYC0458,Staten Island,25-44,Female,College Graduate,>=400% FPL,Yes,2.1,183
+NYC0459,Bronx,25-44,Male,High School Graduate,200-399% FPL,Yes,1.8,207
+NYC0460,Staten Island,25-44,Female,Some College,<100% FPL,Yes,0.7,86
+NYC0461,Manhattan,65+,Male,College Graduate,200-399% FPL,Yes,2.9,97
+NYC0462,Staten Island,25-44,Male,Some College,100-199% FPL,No,1.7,143
+NYC0463,Staten Island,65+,Male,Less than High School,100-199% FPL,Yes,1.9,41
+NYC0464,Queens,45-64,Female,Some College,200-399% FPL,Yes,1.6,188
+NYC0465,Bronx,18-24,Male,Some College,200-399% FPL,Yes,1.5,133
+NYC0466,Manhattan,45-64,Female,Less than High School,>=400% FPL,Yes,1.9,146
+NYC0467,Brooklyn,65+,Female,College Graduate,<100% FPL,No,1.3,144
+NYC0468,Queens,18-24,Male,Less than High School,100-199% FPL,Yes,1.0,195
+NYC0469,Queens,25-44,Male,High School Graduate,<100% FPL,No,1.2,124
+NYC0470,Staten Island,18-24,Male,Less than High School,<100% FPL,Yes,0.6,163
+NYC0471,Staten Island,45-64,Female,College Graduate,200-399% FPL,Yes,1.9,145
+NYC0472,Brooklyn,25-44,Female,High School Graduate,<100% FPL,No,1.5,103
+NYC0473,Manhattan,18-24,Female,Some College,<100% FPL,No,0.0,28
+NYC0474,Queens,45-64,Female,College Graduate,200-399% FPL,Yes,1.2,218
+NYC0475,Staten Island,65+,Male,High School Graduate,<100% FPL,No,0.9,105
+NYC0476,Staten Island,18-24,Female,Some College,100-199% FPL,Yes,1.3,139
+NYC0477,Staten Island,25-44,Male,Some College,200-399% FPL,Yes,2.8,123
+NYC0478,Staten Island,25-44,Female,High School Graduate,200-399% FPL,Yes,2.5,191
+NYC0479,Queens,25-44,Female,College Graduate,100-199% FPL,Yes,1.0,183
+NYC0480,Bronx,65+,Female,College Graduate,>=400% FPL,Yes,2.4,58
+NYC0481,Manhattan,65+,Female,Less than High School,<100% FPL,Yes,2.0,224
+NYC0482,Brooklyn,65+,Female,Some College,<100% FPL,Yes,1.9,111
+NYC0483,Manhattan,45-64,Female,High School Graduate,>=400% FPL,Yes,2.3,182
+NYC0484,Queens,25-44,Male,College Graduate,>=400% FPL,Yes,3.1,93
+NYC0485,Bronx,25-44,Female,High School Graduate,>=400% FPL,Yes,2.5,153
+NYC0486,Staten Island,65+,Female,College Graduate,<100% FPL,No,0.9,75
+NYC0487,Manhattan,18-24,Female,Less than High School,>=400% FPL,Yes,2.6,157
+NYC0488,Queens,18-24,Male,High School Graduate,100-199% FPL,Yes,0.6,193
+NYC0489,Queens,25-44,Female,College Graduate,200-399% FPL,Yes,1.8,33
+NYC0490,Bronx,18-24,Female,Less than High School,200-399% FPL,No,2.6,74
+NYC0491,Staten Island,65+,Female,College Graduate,<100% FPL,Yes,1.6,101
+NYC0492,Bronx,18-24,Male,High School Graduate,100-199% FPL,Yes,2.1,147
+NYC0493,Bronx,45-64,Male,Some College,>=400% FPL,Yes,1.9,116
+NYC0494,Staten Island,65+,Male,Some College,>=400% FPL,Yes,2.8,269
+NYC0495,Brooklyn,25-44,Male,Less than High School,<100% FPL,Yes,0.3,184
+NYC0496,Queens,45-64,Male,Less than High School,100-199% FPL,Yes,1.3,169
+NYC0497,Staten Island,65+,Female,Some College,100-199% FPL,Yes,1.8,141
+NYC0498,Staten Island,25-44,Male,High School Graduate,200-399% FPL,Yes,2.1,52
+NYC0499,Manhattan,18-24,Male,High School Graduate,100-199% FPL,Yes,1.0,115
+NYC0500,Queens,65+,Male,High School Graduate,100-199% FPL,Yes,2.3,101
+NYC0501,Brooklyn,25-44,Male,High School Graduate,<100% FPL,Yes,1.4,178
+NYC0502,Staten Island,18-24,Female,College Graduate,200-399% FPL,Yes,1.7,178
+NYC0503,Manhattan,65+,Male,Some College,100-199% FPL,Yes,1.0,92
+NYC0504,Brooklyn,18-24,Female,College Graduate,>=400% FPL,Yes,3.5,96
+NYC0505,Staten Island,25-44,Male,High School Graduate,<100% FPL,No,0.6,122
+NYC0506,Manhattan,18-24,Female,Less than High School,>=400% FPL,Yes,2.9,94
+NYC0507,Brooklyn,25-44,Male,Less than High School,100-199% FPL,No,1.1,153
+NYC0508,Staten Island,45-64,Female,Less than High School,100-199% FPL,Yes,1.2,125
+NYC0509,Bronx,25-44,Female,Some College,>=400% FPL,Yes,3.2,117
+NYC0510,Manhattan,18-24,Male,Less than High School,<100% FPL,Yes,3.0,143
+NYC0511,Staten Island,18-24,Male,High School Graduate,100-199% FPL,Yes,1.0,120
+NYC0512,Staten Island,45-64,Male,Some College,>=400% FPL,Yes,1.8,138
+NYC0513,Queens,18-24,Male,College Graduate,200-399% FPL,Yes,1.8,80
+NYC0514,Manhattan,65+,Male,Less than High School,100-199% FPL,Yes,1.6,206
+NYC0515,Brooklyn,25-44,Male,Less than High School,<100% FPL,Yes,0.5,219
+NYC0516,Manhattan,45-64,Female,High School Graduate,100-199% FPL,Yes,0.5,127
+NYC0517,Manhattan,65+,Male,College Graduate,>=400% FPL,Yes,2.1,185
+NYC0518,Staten Island,18-24,Female,Less than High School,<100% FPL,No,1.1,198
+NYC0519,Staten Island,65+,Male,Some College,200-399% FPL,Yes,1.4,243
+NYC0520,Manhattan,45-64,Male,High School Graduate,100-199% FPL,Yes,1.3,206
+NYC0521,Staten Island,18-24,Female,College Graduate,100-199% FPL,Yes,1.8,131
+NYC0522,Staten Island,25-44,Male,High School Graduate,>=400% FPL,Yes,1.5,127
+NYC0523,Bronx,65+,Female,Less than High School,200-399% FPL,Yes,1.6,19
+NYC0524,Brooklyn,25-44,Male,High School Graduate,<100% FPL,Yes,0.5,204
+NYC0525,Brooklyn,45-64,Female,Less than High School,<100% FPL,Yes,0.2,171
+NYC0526,Queens,65+,Male,High School Graduate,>=400% FPL,Yes,1.6,120
+NYC0527,Manhattan,18-24,Male,Less than High School,<100% FPL,No,0.3,168
+NYC0528,Manhattan,25-44,Female,Less than High School,200-399% FPL,Yes,1.1,151
+NYC0529,Bronx,18-24,Female,College Graduate,100-199% FPL,Yes,1.6,123
+NYC0530,Manhattan,65+,Female,Less than High School,200-399% FPL,Yes,2.9,157
+NYC0531,Brooklyn,65+,Female,High School Graduate,100-199% FPL,Yes,2.1,110
+NYC0532,Queens,18-24,Male,Some College,<100% FPL,Yes,1.2,137
+NYC0533,Manhattan,18-24,Male,College Graduate,<100% FPL,Yes,1.5,184
+NYC0534,Queens,65+,Female,High School Graduate,100-199% FPL,Yes,1.5,96
+NYC0535,Brooklyn,65+,Male,College Graduate,<100% FPL,No,1.6,73
+NYC0536,Bronx,65+,Male,Some College,100-199% FPL,Yes,1.3,104
+NYC0537,Manhattan,25-44,Male,Some College,<100% FPL,No,1.3,131
+NYC0538,Brooklyn,65+,Female,High School Graduate,200-399% FPL,Yes,0.8,236
+NYC0539,Staten Island,25-44,Male,High School Graduate,>=400% FPL,Yes,2.2,98
+NYC0540,Bronx,65+,Female,High School Graduate,>=400% FPL,Yes,1.7,129
+NYC0541,Brooklyn,65+,Male,Some College,>=400% FPL,Yes,2.5,140
+NYC0542,Manhattan,18-24,Female,High School Graduate,100-199% FPL,Yes,1.2,112
+NYC0543,Brooklyn,45-64,Female,Some College,100-199% FPL,Yes,1.9,132
+NYC0544,Brooklyn,18-24,Male,High School Graduate,>=400% FPL,Yes,3.0,219
+NYC0545,Staten Island,25-44,Male,High School Graduate,200-399% FPL,Yes,1.6,94
+NYC0546,Queens,45-64,Female,High School Graduate,<100% FPL,Yes,0.3,132
+NYC0547,Bronx,25-44,Female,Some College,100-199% FPL,Yes,0.5,62
+NYC0548,Bronx,18-24,Male,High School Graduate,>=400% FPL,Yes,3.1,89
+NYC0549,Queens,25-44,Male,High School Graduate,<100% FPL,Yes,1.6,226
+NYC0550,Queens,45-64,Male,Less than High School,<100% FPL,No,1.3,180
+NYC0551,Queens,18-24,Male,College Graduate,>=400% FPL,Yes,3.1,135
+NYC0552,Manhattan,45-64,Female,High School Graduate,200-399% FPL,Yes,2.6,200
+NYC0553,Bronx,18-24,Male,High School Graduate,200-399% FPL,Yes,2.0,93
+NYC0554,Staten Island,45-64,Male,Less than High School,200-399% FPL,Yes,1.4,78
+NYC0555,Queens,18-24,Male,Less than High School,<100% FPL,No,1.2,116
+NYC0556,Manhattan,18-24,Male,College Graduate,100-199% FPL,Yes,1.1,123
+NYC0557,Brooklyn,25-44,Female,High School Graduate,>=400% FPL,Yes,3.0,261
+NYC0558,Brooklyn,25-44,Male,College Graduate,200-399% FPL,Yes,3.0,222
+NYC0559,Staten Island,25-44,Female,Some College,>=400% FPL,Yes,3.3,215
+NYC0560,Staten Island,18-24,Female,High School Graduate,<100% FPL,No,0.9,35
+NYC0561,Brooklyn,45-64,Female,Some College,200-399% FPL,Yes,2.8,154
+NYC0562,Queens,25-44,Female,High School Graduate,>=400% FPL,Yes,2.7,125
+NYC0563,Bronx,45-64,Female,Some College,<100% FPL,No,1.6,49
+NYC0564,Brooklyn,45-64,Male,Less than High School,>=400% FPL,Yes,2.3,222
+NYC0565,Queens,18-24,Female,Some College,>=400% FPL,Yes,2.4,160
+NYC0566,Brooklyn,25-44,Male,High School Graduate,<100% FPL,Yes,1.3,79
+NYC0567,Manhattan,45-64,Female,College Graduate,<100% FPL,Yes,0.2,174
+NYC0568,Brooklyn,45-64,Female,College Graduate,<100% FPL,No,1.1,199
+NYC0569,Queens,45-64,Female,College Graduate,>=400% FPL,Yes,1.6,259
+NYC0570,Staten Island,45-64,Female,Less than High School,100-199% FPL,Yes,1.7,113
+NYC0571,Manhattan,18-24,Male,College Graduate,>=400% FPL,Yes,2.3,49
+NYC0572,Manhattan,45-64,Female,Some College,<100% FPL,Yes,1.7,186
+NYC0573,Staten Island,18-24,Female,Less than High School,200-399% FPL,Yes,1.5,180
+NYC0574,Queens,65+,Female,Less than High School,100-199% FPL,Yes,1.3,150
+NYC0575,Staten Island,45-64,Male,Some College,<100% FPL,No,1.1,73
+NYC0576,Bronx,65+,Male,High School Graduate,200-399% FPL,No,1.6,78
+NYC0577,Staten Island,45-64,Male,Less than High School,<100% FPL,Yes,2.1,128
+NYC0578,Bronx,18-24,Female,College Graduate,<100% FPL,Yes,1.3,165
+NYC0579,Queens,65+,Female,Some College,>=400% FPL,No,1.4,144
+NYC0580,Brooklyn,45-64,Female,Less than High School,<100% FPL,Yes,1.2,163
+NYC0581,Brooklyn,18-24,Female,Less than High School,>=400% FPL,Yes,1.8,135
+NYC0582,Manhattan,25-44,Male,College Graduate,100-199% FPL,Yes,2.0,235
+NYC0583,Staten Island,45-64,Male,Some College,>=400% FPL,Yes,1.7,89
+NYC0584,Bronx,45-64,Male,College Graduate,100-199% FPL,Yes,2.2,153
+NYC0585,Brooklyn,65+,Female,Some College,100-199% FPL,Yes,2.4,248
+NYC0586,Bronx,65+,Female,Some College,<100% FPL,Yes,0.8,131
+NYC0587,Queens,18-24,Female,College Graduate,>=400% FPL,Yes,2.1,61
+NYC0588,Bronx,65+,Male,College Graduate,<100% FPL,No,1.0,86
+NYC0589,Queens,18-24,Male,Some College,<100% FPL,Yes,1.8,219
+NYC0590,Bronx,65+,Female,Some College,200-399% FPL,Yes,1.4,211
+NYC0591,Manhattan,45-64,Female,High School Graduate,200-399% FPL,Yes,2.3,209
+NYC0592,Manhattan,65+,Male,High School Graduate,200-399% FPL,Yes,2.1,172
+NYC0593,Staten Island,25-44,Female,College Graduate,<100% FPL,Yes,1.2,173
+NYC0594,Bronx,25-44,Male,College Graduate,100-199% FPL,Yes,1.6,168
+NYC0595,Queens,25-44,Male,High School Graduate,100-199% FPL,Yes,1.7,159
+NYC0596,Manhattan,45-64,Male,College Graduate,<100% FPL,Yes,1.2,101
+NYC0597,Queens,45-64,Male,College Graduate,100-199% FPL,Yes,1.1,252
+NYC0598,Brooklyn,65+,Male,High School Graduate,100-199% FPL,Yes,1.4,178
+NYC0599,Bronx,45-64,Female,College Graduate,<100% FPL,No,1.0,37
+NYC0600,Brooklyn,25-44,Male,Some College,<100% FPL,No,1.5,131
+NYC0601,Staten Island,25-44,Male,Some College,200-399% FPL,Yes,1.7,103
+NYC0602,Staten Island,18-24,Female,Some College,100-199% FPL,Yes,1.7,165
+NYC0603,Manhattan,18-24,Female,Less than High School,>=400% FPL,Yes,2.4,139
+NYC0604,Staten Island,45-64,Male,Less than High School,>=400% FPL,Yes,1.8,136
+NYC0605,Bronx,25-44,Female,Less than High School,>=400% FPL,Yes,2.5,149
+NYC0606,Staten Island,45-64,Male,College Graduate,>=400% FPL,Yes,2.8,149
+NYC0607,Brooklyn,45-64,Male,Some College,>=400% FPL,Yes,1.6,186
+NYC0608,Bronx,65+,Female,High School Graduate,>=400% FPL,Yes,2.6,186
+NYC0609,Brooklyn,65+,Female,Some College,>=400% FPL,Yes,1.5,119
+NYC0610,Manhattan,18-24,Male,High School Graduate,200-399% FPL,Yes,2.0,178
+NYC0611,Brooklyn,65+,Male,Less than High School,200-399% FPL,Yes,1.3,108
+NYC0612,Bronx,18-24,Male,College Graduate,<100% FPL,No,1.8,25
+NYC0613,Brooklyn,18-24,Male,Less than High School,<100% FPL,Yes,1.9,168
+NYC0614,Bronx,25-44,Female,Less than High School,200-399% FPL,Yes,1.8,1
+NYC0615,Manhattan,45-64,Male,Less than High School,200-399% FPL,Yes,1.3,128
+NYC0616,Bronx,45-64,Female,College Graduate,100-199% FPL,Yes,1.4,114
+NYC0617,Queens,45-64,Male,Some College,<100% FPL,No,1.9,116
+NYC0618,Manhattan,25-44,Male,High School Graduate,>=400% FPL,Yes,1.9,143
+NYC0619,Brooklyn,65+,Male,Less than High School,200-399% FPL,Yes,1.8,174
+NYC0620,Brooklyn,65+,Female,High School Graduate,100-199% FPL,Yes,1.8,70
+NYC0621,Manhattan,25-44,Female,High School Graduate,>=400% FPL,Yes,2.4,203
+NYC0622,Staten Island,18-24,Male,Some College,<100% FPL,Yes,1.4,105
+NYC0623,Manhattan,65+,Female,Some College,100-199% FPL,Yes,1.1,166
+NYC0624,Brooklyn,45-64,Male,High School Graduate,200-399% FPL,Yes,1.8,176
+NYC0625,Bronx,25-44,Female,Less than High School,>=400% FPL,Yes,2.1,108
+NYC0626,Brooklyn,45-64,Male,Less than High School,>=400% FPL,Yes,1.7,149
+NYC0627,Manhattan,45-64,Female,Some College,200-399% FPL,No,2.6,7
+NYC0628,Queens,65+,Male,Some College,>=400% FPL,Yes,1.7,211
+NYC0629,Queens,65+,Female,Some College,<100% FPL,No,0.7,80
+NYC0630,Bronx,25-44,Female,College Graduate,200-399% FPL,Yes,1.8,119
+NYC0631,Staten Island,18-24,Female,College Graduate,<100% FPL,Yes,2.3,170
+NYC0632,Bronx,45-64,Female,Some College,>=400% FPL,No,2.7,0
+NYC0633,Staten Island,18-24,Female,High School Graduate,100-199% FPL,Yes,0.8,150
+NYC0634,Queens,65+,Male,Less than High School,<100% FPL,No,1.9,16
+NYC0635,Queens,45-64,Female,Less than High School,200-399% FPL,Yes,2.6,154
+NYC0636,Manhattan,65+,Female,Less than High School,<100% FPL,No,1.2,76
+NYC0637,Manhattan,25-44,Male,Some College,<100% FPL,Yes,1.4,172
+NYC0638,Bronx,25-44,Male,Some College,<100% FPL,Yes,1.2,124
+NYC0639,Brooklyn,45-64,Female,High School Graduate,>=400% FPL,No,1.5,113
+NYC0640,Brooklyn,25-44,Male,Less than High School,>=400% FPL,Yes,2.5,227
+NYC0641,Queens,65+,Male,Some College,>=400% FPL,Yes,2.9,201
+NYC0642,Brooklyn,18-24,Female,Some College,<100% FPL,No,1.4,138
+NYC0643,Staten Island,65+,Female,College Graduate,100-199% FPL,Yes,1.0,144
+NYC0644,Bronx,25-44,Female,College Graduate,>=400% FPL,Yes,1.4,118
+NYC0645,Staten Island,18-24,Female,Less than High School,>=400% FPL,Yes,2.9,137
+NYC0646,Staten Island,65+,Female,Less than High School,200-399% FPL,Yes,1.4,133
+NYC0647,Brooklyn,45-64,Male,Some College,<100% FPL,Yes,1.2,63
+NYC0648,Queens,25-44,Female,Less than High School,200-399% FPL,Yes,1.5,209
+NYC0649,Brooklyn,18-24,Male,Less than High School,>=400% FPL,Yes,2.2,109
+NYC0650,Bronx,45-64,Female,High School Graduate,>=400% FPL,Yes,2.1,185
+NYC0651,Brooklyn,65+,Male,Some College,200-399% FPL,Yes,1.6,158
+NYC0652,Queens,25-44,Male,College Graduate,>=400% FPL,Yes,2.3,192
+NYC0653,Manhattan,65+,Male,Less than High School,100-199% FPL,Yes,1.4,141
+NYC0654,Staten Island,18-24,Female,Less than High School,>=400% FPL,Yes,2.4,189
+NYC0655,Queens,25-44,Male,High School Graduate,<100% FPL,Yes,0.8,162
+NYC0656,Queens,25-44,Female,High School Graduate,100-199% FPL,Yes,1.9,97
+NYC0657,Manhattan,25-44,Male,Some College,>=400% FPL,Yes,1.9,126
+NYC0658,Bronx,65+,Male,High School Graduate,<100% FPL,Yes,1.6,225
+NYC0659,Bronx,65+,Male,High School Graduate,200-399% FPL,Yes,1.4,143
+NYC0660,Staten Island,18-24,Female,College Graduate,100-199% FPL,Yes,1.5,188
+NYC0661,Staten Island,45-64,Female,Less than High School,>=400% FPL,Yes,1.4,150
+NYC0662,Bronx,45-64,Male,College Graduate,>=400% FPL,Yes,2.9,131
+NYC0663,Bronx,18-24,Female,College Graduate,>=400% FPL,Yes,2.5,149
+NYC0664,Staten Island,18-24,Male,High School Graduate,100-199% FPL,Yes,1.9,260
+NYC0665,Staten Island,45-64,Male,Less than High School,<100% FPL,Yes,0.5,212
+NYC0666,Queens,25-44,Female,College Graduate,200-399% FPL,Yes,2.1,160
+NYC0667,Bronx,65+,Male,High School Graduate,100-199% FPL,Yes,1.6,162
+NYC0668,Manhattan,45-64,Male,College Graduate,<100% FPL,No,0.7,120
+NYC0669,Staten Island,65+,Male,High School Graduate,100-199% FPL,Yes,1.1,126
+NYC0670,Bronx,25-44,Female,Some College,200-399% FPL,Yes,1.2,199
+NYC0671,Bronx,25-44,Male,Some College,200-399% FPL,Yes,0.8,159
+NYC0672,Manhattan,25-44,Male,Some College,<100% FPL,No,0.9,121
+NYC0673,Staten Island,18-24,Male,High School Graduate,<100% FPL,Yes,1.5,158
+NYC0674,Staten Island,25-44,Male,Less than High School,200-399% FPL,Yes,1.2,271
+NYC0675,Bronx,45-64,Male,Less than High School,<100% FPL,No,0.9,103
+NYC0676,Queens,65+,Female,High School Graduate,>=400% FPL,Yes,1.5,79
+NYC0677,Bronx,45-64,Male,College Graduate,200-399% FPL,Yes,1.1,93
+NYC0678,Manhattan,18-24,Female,Less than High School,>=400% FPL,Yes,3.0,190
+NYC0679,Manhattan,45-64,Male,Less than High School,<100% FPL,Yes,1.5,137
+NYC0680,Queens,18-24,Male,Some College,<100% FPL,Yes,1.4,140
+NYC0681,Bronx,25-44,Male,High School Graduate,100-199% FPL,Yes,2.2,129
+NYC0682,Brooklyn,45-64,Female,High School Graduate,200-399% FPL,Yes,2.9,115
+NYC0683,Manhattan,25-44,Male,Less than High School,<100% FPL,No,1.0,188
+NYC0684,Queens,45-64,Male,High School Graduate,200-399% FPL,Yes,1.2,165
+NYC0685,Bronx,65+,Female,College Graduate,100-199% FPL,Yes,1.3,187
+NYC0686,Manhattan,18-24,Female,College Graduate,<100% FPL,Yes,0.7,192
+NYC0687,Queens,45-64,Male,Some College,100-199% FPL,Yes,1.5,143
+NYC0688,Manhattan,45-64,Male,Some College,100-199% FPL,Yes,1.5,141
+NYC0689,Bronx,25-44,Female,Less than High School,100-199% FPL,Yes,1.9,171
+NYC0690,Queens,25-44,Female,Some College,200-399% FPL,Yes,1.3,172
+NYC0691,Manhattan,18-24,Female,Some College,100-199% FPL,Yes,1.5,219
+NYC0692,Brooklyn,65+,Female,Less than High School,<100% FPL,Yes,0.8,184
+NYC0693,Queens,65+,Male,Some College,<100% FPL,Yes,1.9,115
+NYC0694,Brooklyn,65+,Male,Some College,<100% FPL,Yes,1.6,190
+NYC0695,Brooklyn,65+,Male,Some College,200-399% FPL,Yes,2.3,162
+NYC0696,Brooklyn,65+,Male,College Graduate,>=400% FPL,Yes,3.0,126
+NYC0697,Brooklyn,18-24,Male,High School Graduate,<100% FPL,Yes,0.9,171
+NYC0698,Bronx,18-24,Female,Some College,>=400% FPL,Yes,2.6,183
+NYC0699,Brooklyn,45-64,Female,High School Graduate,200-399% FPL,Yes,1.6,98
+NYC0700,Bronx,25-44,Female,Some College,>=400% FPL,Yes,2.6,202
+NYC0701,Bronx,45-64,Female,High School Graduate,>=400% FPL,Yes,2.3,187
+NYC0702,Queens,45-64,Female,Some College,100-199% FPL,Yes,1.8,80
+NYC0703,Manhattan,18-24,Male,College Graduate,<100% FPL,No,2.1,149
+NYC0704,Staten Island,45-64,Male,Less than High School,>=400% FPL,No,2.6,121
+NYC0705,Bronx,65+,Female,College Graduate,<100% FPL,Yes,1.2,164
+NYC0706,Queens,25-44,Male,Some College,>=400% FPL,Yes,1.8,142
+NYC0707,Queens,45-64,Female,Less than High School,200-399% FPL,Yes,2.2,177
+NYC0708,Brooklyn,45-64,Female,College Graduate,200-399% FPL,Yes,0.8,148
+NYC0709,Manhattan,45-64,Male,High School Graduate,<100% FPL,Yes,2.5,90
+NYC0710,Queens,25-44,Female,Less than High School,>=400% FPL,Yes,3.0,141
+NYC0711,Manhattan,45-64,Male,High School Graduate,100-199% FPL,No,1.2,88
+NYC0712,Queens,45-64,Male,Less than High School,200-399% FPL,Yes,1.0,190
+NYC0713,Manhattan,45-64,Female,High School Graduate,200-399% FPL,Yes,2.6,167
+NYC0714,Brooklyn,65+,Female,Some College,200-399% FPL,Yes,1.5,175
+NYC0715,Brooklyn,25-44,Female,Less than High School,200-399% FPL,No,1.6,96
+NYC0716,Manhattan,65+,Male,Some College,200-399% FPL,Yes,1.6,181
+NYC0717,Queens,45-64,Female,High School Graduate,100-199% FPL,Yes,1.4,136
+NYC0718,Queens,25-44,Male,Less than High School,<100% FPL,No,2.0,60
+NYC0719,Staten Island,65+,Female,High School Graduate,<100% FPL,Yes,1.3,21
+NYC0720,Brooklyn,65+,Male,Some College,>=400% FPL,Yes,3.3,156
+NYC0721,Staten Island,25-44,Female,Less than High School,<100% FPL,No,0.4,37
+NYC0722,Manhattan,65+,Female,Less than High School,100-199% FPL,Yes,1.4,172
+NYC0723,Staten Island,45-64,Male,College Graduate,>=400% FPL,Yes,3.0,157
+NYC0724,Manhattan,18-24,Male,College Graduate,>=400% FPL,Yes,3.2,144
+NYC0725,Brooklyn,65+,Female,College Graduate,200-399% FPL,Yes,1.5,127
+NYC0726,Staten Island,65+,Male,College Graduate,>=400% FPL,Yes,1.8,98
+NYC0727,Bronx,45-64,Male,High School Graduate,100-199% FPL,No,1.6,51
+NYC0728,Queens,65+,Male,College Graduate,>=400% FPL,Yes,2.8,103
+NYC0729,Queens,45-64,Female,Less than High School,<100% FPL,Yes,0.6,190
+NYC0730,Manhattan,45-64,Male,Some College,200-399% FPL,Yes,1.1,137
+NYC0731,Queens,65+,Male,Less than High School,<100% FPL,No,1.1,21
+NYC0732,Bronx,25-44,Male,High School Graduate,100-199% FPL,Yes,2.3,146
+NYC0733,Bronx,18-24,Female,Less than High School,>=400% FPL,Yes,3.0,141
+NYC0734,Bronx,65+,Female,High School Graduate,100-199% FPL,No,1.6,189
+NYC0735,Manhattan,45-64,Female,Less than High School,100-199% FPL,Yes,2.3,111
+NYC0736,Manhattan,18-24,Male,College Graduate,<100% FPL,Yes,1.6,209
+NYC0737,Queens,45-64,Male,Some College,>=400% FPL,Yes,2.6,155
+NYC0738,Staten Island,45-64,Male,Less than High School,>=400% FPL,Yes,2.3,134
+NYC0739,Queens,45-64,Female,High School Graduate,100-199% FPL,Yes,1.4,209
+NYC0740,Queens,65+,Female,Less than High School,200-399% FPL,Yes,3.1,175
+NYC0741,Bronx,65+,Male,College Graduate,>=400% FPL,Yes,2.5,122
+NYC0742,Brooklyn,45-64,Female,Some College,200-399% FPL,No,2.0,91
+NYC0743,Queens,65+,Male,College Graduate,100-199% FPL,Yes,1.4,51
+NYC0744,Queens,18-24,Female,College Graduate,<100% FPL,Yes,1.3,138
+NYC0745,Staten Island,65+,Female,High School Graduate,<100% FPL,No,1.4,0
+NYC0746,Queens,25-44,Female,College Graduate,200-399% FPL,Yes,1.9,119
+NYC0747,Staten Island,25-44,Female,High School Graduate,>=400% FPL,Yes,3.2,186
+NYC0748,Manhattan,65+,Female,High School Graduate,100-199% FPL,Yes,1.6,147
+NYC0749,Bronx,65+,Male,Some College,200-399% FPL,No,1.8,95
+NYC0750,Manhattan,65+,Male,High School Graduate,100-199% FPL,Yes,1.6,207
+NYC0751,Bronx,18-24,Female,High School Graduate,200-399% FPL,Yes,1.9,117
+NYC0752,Brooklyn,25-44,Male,Less than High School,<100% FPL,Yes,1.0,140
+NYC0753,Bronx,18-24,Male,College Graduate,100-199% FPL,No,1.7,178
+NYC0754,Brooklyn,25-44,Female,High School Graduate,200-399% FPL,Yes,3.0,209
+NYC0755,Staten Island,45-64,Male,Less than High School,<100% FPL,Yes,0.8,191
+NYC0756,Manhattan,18-24,Female,Some College,200-399% FPL,Yes,1.7,179
+NYC0757,Brooklyn,25-44,Male,Some College,200-399% FPL,Yes,3.1,131
+NYC0758,Brooklyn,45-64,Male,Less than High School,200-399% FPL,Yes,0.6,168
+NYC0759,Brooklyn,45-64,Male,High School Graduate,>=400% FPL,Yes,2.5,156
+NYC0760,Queens,65+,Male,High School Graduate,200-399% FPL,Yes,2.2,170
+NYC0761,Manhattan,25-44,Male,Less than High School,<100% FPL,Yes,0.9,170
+NYC0762,Manhattan,25-44,Female,Some College,200-399% FPL,Yes,1.9,136
+NYC0763,Queens,45-64,Female,College Graduate,100-199% FPL,Yes,2.3,257
+NYC0764,Manhattan,45-64,Female,College Graduate,100-199% FPL,No,0.7,95
+NYC0765,Staten Island,25-44,Female,Less than High School,<100% FPL,No,1.3,117
+NYC0766,Brooklyn,25-44,Female,High School Graduate,200-399% FPL,Yes,2.2,109
+NYC0767,Queens,25-44,Male,College Graduate,100-199% FPL,Yes,1.7,54
+NYC0768,Staten Island,25-44,Female,College Graduate,100-199% FPL,Yes,2.2,65
+NYC0769,Queens,18-24,Male,High School Graduate,200-399% FPL,Yes,1.5,179
+NYC0770,Staten Island,18-24,Male,Less than High School,<100% FPL,No,0.9,121
+NYC0771,Bronx,18-24,Female,Some College,<100% FPL,Yes,0.6,120
+NYC0772,Bronx,18-24,Male,Some College,<100% FPL,Yes,1.4,159
+NYC0773,Manhattan,45-64,Female,Some College,100-199% FPL,Yes,0.5,153
+NYC0774,Manhattan,45-64,Female,College Graduate,200-399% FPL,Yes,2.1,150
+NYC0775,Queens,25-44,Female,Less than High School,>=400% FPL,Yes,2.1,213
+NYC0776,Staten Island,18-24,Female,High School Graduate,200-399% FPL,Yes,2.0,220
+NYC0777,Bronx,18-24,Male,Less than High School,200-399% FPL,Yes,1.3,134
+NYC0778,Bronx,18-24,Female,Some College,200-399% FPL,Yes,2.0,113
+NYC0779,Staten Island,65+,Male,College Graduate,100-199% FPL,Yes,0.6,173
+NYC0780,Manhattan,45-64,Male,Less than High School,100-199% FPL,No,1.6,0
+NYC0781,Staten Island,18-24,Male,Some College,<100% FPL,No,1.4,118
+NYC0782,Manhattan,65+,Female,High School Graduate,>=400% FPL,Yes,2.3,162
+NYC0783,Staten Island,18-24,Male,Some College,100-199% FPL,Yes,1.7,158
+NYC0784,Staten Island,45-64,Female,High School Graduate,200-399% FPL,Yes,1.0,211
+NYC0785,Manhattan,18-24,Female,Less than High School,<100% FPL,Yes,1.6,96
+NYC0786,Queens,18-24,Male,College Graduate,<100% FPL,Yes,1.2,117
+NYC0787,Queens,18-24,Female,High School Graduate,100-199% FPL,Yes,2.0,196
+NYC0788,Bronx,25-44,Female,Less than High School,>=400% FPL,No,2.6,102
+NYC0789,Manhattan,65+,Female,College Graduate,200-399% FPL,Yes,1.3,97
+NYC0790,Staten Island,25-44,Male,High School Graduate,200-399% FPL,Yes,2.4,201
+NYC0791,Bronx,25-44,Female,High School Graduate,>=400% FPL,Yes,1.3,168
+NYC0792,Staten Island,45-64,Female,Some College,100-199% FPL,Yes,2.1,159
+NYC0793,Manhattan,25-44,Male,High School Graduate,>=400% FPL,Yes,2.1,89
+NYC0794,Bronx,25-44,Male,College Graduate,100-199% FPL,Yes,1.0,113
+NYC0795,Manhattan,65+,Male,Some College,>=400% FPL,Yes,1.8,105
+NYC0796,Manhattan,18-24,Male,Some College,>=400% FPL,Yes,1.0,207
+NYC0797,Manhattan,25-44,Male,High School Graduate,200-399% FPL,Yes,2.3,63
+NYC0798,Manhattan,45-64,Male,Some College,>=400% FPL,Yes,2.4,158
+NYC0799,Bronx,25-44,Female,Some College,100-199% FPL,Yes,2.4,201
+NYC0800,Staten Island,25-44,Male,College Graduate,100-199% FPL,Yes,0.5,113
+NYC0801,Queens,18-24,Female,Some College,200-399% FPL,Yes,1.1,105
+NYC0802,Brooklyn,45-64,Male,High School Graduate,100-199% FPL,Yes,2.2,116
+NYC0803,Bronx,25-44,Male,College Graduate,100-199% FPL,Yes,2.4,87
+NYC0804,Staten Island,65+,Female,Less than High School,100-199% FPL,Yes,1.6,138
+NYC0805,Staten Island,25-44,Female,College Graduate,200-399% FPL,Yes,1.1,88
+NYC0806,Queens,65+,Male,Less than High School,200-399% FPL,Yes,1.9,80
+NYC0807,Manhattan,65+,Female,Some College,<100% FPL,Yes,1.0,132
+NYC0808,Bronx,18-24,Female,Less than High School,>=400% FPL,No,2.2,80
+NYC0809,Staten Island,65+,Male,High School Graduate,100-199% FPL,Yes,1.5,241
+NYC0810,Bronx,18-24,Female,Less than High School,100-199% FPL,Yes,0.4,170
+NYC0811,Brooklyn,65+,Male,High School Graduate,>=400% FPL,Yes,2.1,242
+NYC0812,Manhattan,18-24,Male,Some College,>=400% FPL,Yes,3.6,114
+NYC0813,Manhattan,18-24,Female,High School Graduate,>=400% FPL,Yes,2.4,202
+NYC0814,Staten Island,25-44,Male,Some College,200-399% FPL,Yes,1.3,162
+NYC0815,Bronx,45-64,Female,College Graduate,>=400% FPL,Yes,2.1,175
+NYC0816,Queens,65+,Female,High School Graduate,>=400% FPL,Yes,2.5,116
+NYC0817,Staten Island,65+,Female,High School Graduate,100-199% FPL,Yes,0.9,147
+NYC0818,Queens,18-24,Female,Less than High School,200-399% FPL,Yes,2.5,95
+NYC0819,Manhattan,45-64,Female,Less than High School,100-199% FPL,Yes,1.5,181
+NYC0820,Bronx,18-24,Male,High School Graduate,>=400% FPL,Yes,2.6,179
+NYC0821,Staten Island,65+,Male,College Graduate,<100% FPL,Yes,1.6,245
+NYC0822,Bronx,45-64,Male,Less than High School,200-399% FPL,Yes,1.4,222
+NYC0823,Brooklyn,25-44,Female,Less than High School,200-399% FPL,Yes,2.6,246
+NYC0824,Brooklyn,65+,Male,College Graduate,200-399% FPL,Yes,1.5,175
+NYC0825,Manhattan,18-24,Female,College Graduate,<100% FPL,No,2.3,195
+NYC0826,Bronx,25-44,Male,High School Graduate,100-199% FPL,Yes,1.6,158
+NYC0827,Brooklyn,65+,Male,Some College,>=400% FPL,No,2.0,42
+NYC0828,Brooklyn,65+,Female,High School Graduate,200-399% FPL,Yes,3.2,80
+NYC0829,Staten Island,18-24,Male,Less than High School,100-199% FPL,Yes,1.5,63
+NYC0830,Manhattan,25-44,Male,Less than High School,>=400% FPL,Yes,2.8,147
+NYC0831,Staten Island,65+,Female,College Graduate,>=400% FPL,No,2.4,98
+NYC0832,Manhattan,65+,Female,College Graduate,100-199% FPL,Yes,2.0,123
+NYC0833,Staten Island,25-44,Male,High School Graduate,100-199% FPL,Yes,2.3,125
+NYC0834,Brooklyn,18-24,Male,College Graduate,>=400% FPL,Yes,2.3,182
+NYC0835,Manhattan,18-24,Female,Some College,100-199% FPL,Yes,1.4,118
+NYC0836,Manhattan,65+,Male,Some College,100-199% FPL,Yes,1.8,122
+NYC0837,Queens,25-44,Female,College Graduate,200-399% FPL,Yes,0.4,104
+NYC0838,Brooklyn,45-64,Female,Less than High School,>=400% FPL,Yes,1.9,269
+NYC0839,Brooklyn,25-44,Female,College Graduate,>=400% FPL,Yes,3.1,181
+NYC0840,Bronx,18-24,Female,Some College,200-399% FPL,Yes,2.5,63
+NYC0841,Manhattan,25-44,Male,College Graduate,>=400% FPL,Yes,2.3,211
+NYC0842,Queens,65+,Female,Less than High School,<100% FPL,Yes,0.9,169
+NYC0843,Staten Island,25-44,Female,Less than High School,100-199% FPL,Yes,1.7,191
+NYC0844,Brooklyn,45-64,Female,Less than High School,<100% FPL,No,1.5,24
+NYC0845,Bronx,65+,Female,High School Graduate,<100% FPL,No,2.1,46
+NYC0846,Queens,65+,Female,Some College,100-199% FPL,Yes,1.1,248
+NYC0847,Bronx,65+,Male,Some College,200-399% FPL,No,2.8,28
+NYC0848,Bronx,25-44,Female,Some College,>=400% FPL,Yes,1.7,225
+NYC0849,Bronx,18-24,Male,Some College,200-399% FPL,Yes,0.9,106
+NYC0850,Bronx,25-44,Male,College Graduate,200-399% FPL,Yes,2.4,95
+NYC0851,Bronx,65+,Female,Less than High School,100-199% FPL,Yes,1.0,146
+NYC0852,Brooklyn,25-44,Male,Less than High School,200-399% FPL,No,0.5,0
+NYC0853,Queens,45-64,Female,Some College,100-199% FPL,Yes,2.1,107
+NYC0854,Brooklyn,25-44,Male,High School Graduate,<100% FPL,No,1.5,58
+NYC0855,Staten Island,65+,Female,Less than High School,100-199% FPL,Yes,1.6,156
+NYC0856,Bronx,65+,Female,Less than High School,200-399% FPL,Yes,2.2,227
+NYC0857,Brooklyn,18-24,Female,Less than High School,200-399% FPL,Yes,2.0,168
+NYC0858,Queens,45-64,Female,College Graduate,100-199% FPL,Yes,1.2,156
+NYC0859,Bronx,25-44,Male,Some College,200-399% FPL,Yes,2.4,282
+NYC0860,Brooklyn,25-44,Female,Less than High School,>=400% FPL,No,1.5,158
+NYC0861,Queens,18-24,Female,High School Graduate,100-199% FPL,No,1.2,111
+NYC0862,Manhattan,18-24,Male,Less than High School,<100% FPL,Yes,1.2,208
+NYC0863,Brooklyn,25-44,Male,Less than High School,>=400% FPL,Yes,3.0,118
+NYC0864,Manhattan,65+,Male,College Graduate,>=400% FPL,Yes,2.5,133
+NYC0865,Queens,25-44,Female,Some College,100-199% FPL,Yes,2.1,175
+NYC0866,Brooklyn,45-64,Female,College Graduate,200-399% FPL,Yes,1.5,140
+NYC0867,Staten Island,45-64,Female,College Graduate,>=400% FPL,Yes,2.1,168
+NYC0868,Brooklyn,45-64,Male,High School Graduate,>=400% FPL,Yes,1.5,211
+NYC0869,Manhattan,18-24,Female,College Graduate,<100% FPL,Yes,1.0,184
+NYC0870,Queens,25-44,Female,Less than High School,200-399% FPL,Yes,1.5,50
+NYC0871,Bronx,45-64,Male,Less than High School,200-399% FPL,Yes,2.1,109
+NYC0872,Bronx,18-24,Male,Less than High School,<100% FPL,Yes,1.3,163
+NYC0873,Bronx,25-44,Male,High School Graduate,100-199% FPL,Yes,1.4,158
+NYC0874,Staten Island,25-44,Female,Some College,>=400% FPL,Yes,2.8,188
+NYC0875,Bronx,25-44,Female,College Graduate,100-199% FPL,Yes,2.3,195
+NYC0876,Queens,25-44,Male,Some College,100-199% FPL,Yes,2.1,172
+NYC0877,Bronx,25-44,Male,Less than High School,200-399% FPL,Yes,2.3,176
+NYC0878,Brooklyn,25-44,Female,Some College,100-199% FPL,No,0.9,149
+NYC0879,Manhattan,18-24,Female,Some College,100-199% FPL,Yes,2.2,121
+NYC0880,Queens,18-24,Male,High School Graduate,>=400% FPL,No,3.2,115
+NYC0881,Brooklyn,45-64,Male,Less than High School,100-199% FPL,Yes,1.0,106
+NYC0882,Staten Island,25-44,Female,High School Graduate,<100% FPL,Yes,0.8,133
+NYC0883,Brooklyn,45-64,Female,College Graduate,>=400% FPL,Yes,2.1,133
+NYC0884,Staten Island,65+,Female,High School Graduate,<100% FPL,No,1.4,96
+NYC0885,Brooklyn,65+,Female,High School Graduate,<100% FPL,No,1.2,22
+NYC0886,Bronx,25-44,Female,Some College,<100% FPL,Yes,0.4,215
+NYC0887,Staten Island,25-44,Female,College Graduate,100-199% FPL,Yes,2.6,133
+NYC0888,Bronx,18-24,Male,Some College,100-199% FPL,Yes,1.4,137
+NYC0889,Staten Island,45-64,Male,College Graduate,>=400% FPL,Yes,3.8,143
+NYC0890,Queens,25-44,Male,High School Graduate,<100% FPL,Yes,0.4,151
+NYC0891,Bronx,65+,Female,College Graduate,200-399% FPL,Yes,2.6,225
+NYC0892,Bronx,65+,Female,Less than High School,>=400% FPL,Yes,2.0,146
+NYC0893,Brooklyn,65+,Male,Less than High School,>=400% FPL,Yes,2.3,88
+NYC0894,Staten Island,45-64,Male,High School Graduate,200-399% FPL,Yes,1.7,211
+NYC0895,Manhattan,45-64,Male,Some College,200-399% FPL,Yes,2.5,200
+NYC0896,Bronx,18-24,Male,Less than High School,100-199% FPL,Yes,1.9,120
+NYC0897,Bronx,45-64,Male,High School Graduate,200-399% FPL,Yes,1.4,93
+NYC0898,Manhattan,45-64,Male,Less than High School,>=400% FPL,Yes,2.2,95
+NYC0899,Brooklyn,25-44,Male,High School Graduate,<100% FPL,Yes,0.5,146
+NYC0900,Queens,18-24,Male,Less than High School,200-399% FPL,Yes,1.4,78
+NYC0901,Bronx,65+,Male,Less than High School,>=400% FPL,Yes,1.2,132
+NYC0902,Manhattan,18-24,Female,High School Graduate,100-199% FPL,Yes,0.9,142
+NYC0903,Manhattan,65+,Female,High School Graduate,200-399% FPL,Yes,2.1,272
+NYC0904,Manhattan,65+,Male,Less than High School,<100% FPL,No,0.0,93
+NYC0905,Brooklyn,18-24,Male,College Graduate,100-199% FPL,Yes,2.2,143
+NYC0906,Manhattan,65+,Male,College Graduate,>=400% FPL,Yes,3.4,143
+NYC0907,Queens,65+,Male,High School Graduate,100-199% FPL,Yes,2.5,230
+NYC0908,Queens,65+,Female,College Graduate,200-399% FPL,Yes,0.5,198
+NYC0909,Queens,25-44,Male,College Graduate,200-399% FPL,Yes,1.3,63
+NYC0910,Queens,65+,Female,Some College,<100% FPL,Yes,1.0,155
+NYC0911,Brooklyn,18-24,Male,High School Graduate,200-399% FPL,Yes,3.0,124
+NYC0912,Brooklyn,25-44,Female,Some College,>=400% FPL,Yes,1.4,114
+NYC0913,Bronx,18-24,Male,Some College,100-199% FPL,Yes,2.2,151
+NYC0914,Queens,65+,Female,Less than High School,<100% FPL,Yes,0.6,196
+NYC0915,Queens,18-24,Male,Some College,200-399% FPL,Yes,2.0,191
+NYC0916,Brooklyn,18-24,Male,High School Graduate,200-399% FPL,Yes,1.4,93
+NYC0917,Manhattan,45-64,Male,Some College,<100% FPL,Yes,0.9,120
+NYC0918,Queens,18-24,Female,Less than High School,<100% FPL,Yes,2.8,177
+NYC0919,Manhattan,25-44,Female,College Graduate,200-399% FPL,Yes,1.9,220
+NYC0920,Manhattan,45-64,Male,Less than High School,<100% FPL,Yes,0.7,201
+NYC0921,Brooklyn,45-64,Male,College Graduate,<100% FPL,No,2.4,66
+NYC0922,Brooklyn,25-44,Female,Less than High School,<100% FPL,No,2.1,64
+NYC0923,Manhattan,45-64,Male,Less than High School,100-199% FPL,Yes,1.7,177
+NYC0924,Manhattan,65+,Female,High School Graduate,200-399% FPL,Yes,0.6,132
+NYC0925,Manhattan,25-44,Male,Less than High School,100-199% FPL,Yes,2.1,112
+NYC0926,Queens,25-44,Female,High School Graduate,200-399% FPL,Yes,2.0,180
+NYC0927,Brooklyn,25-44,Male,College Graduate,<100% FPL,Yes,0.2,150
+NYC0928,Bronx,18-24,Female,High School Graduate,<100% FPL,Yes,1.3,133
+NYC0929,Staten Island,65+,Female,High School Graduate,>=400% FPL,Yes,2.6,187
+NYC0930,Brooklyn,65+,Female,High School Graduate,>=400% FPL,Yes,1.6,11
+NYC0931,Bronx,18-24,Female,College Graduate,100-199% FPL,No,1.2,130
+NYC0932,Bronx,65+,Male,Less than High School,200-399% FPL,Yes,2.2,194
+NYC0933,Bronx,25-44,Male,Some College,100-199% FPL,Yes,1.8,141
+NYC0934,Staten Island,65+,Female,Some College,<100% FPL,Yes,1.0,170
+NYC0935,Bronx,45-64,Female,College Graduate,<100% FPL,No,0.6,159
+NYC0936,Bronx,65+,Male,High School Graduate,200-399% FPL,Yes,1.8,137
+NYC0937,Staten Island,65+,Male,Some College,<100% FPL,Yes,2.1,132
+NYC0938,Staten Island,45-64,Male,Less than High School,<100% FPL,Yes,1.5,127
+NYC0939,Queens,25-44,Female,Some College,<100% FPL,Yes,0.1,141
+NYC0940,Staten Island,45-64,Female,High School Graduate,>=400% FPL,Yes,1.9,86
+NYC0941,Staten Island,45-64,Male,Some College,200-399% FPL,Yes,1.5,148
+NYC0942,Brooklyn,45-64,Male,Some College,200-399% FPL,Yes,1.8,95
+NYC0943,Bronx,25-44,Male,College Graduate,200-399% FPL,Yes,1.5,110
+NYC0944,Bronx,25-44,Male,High School Graduate,>=400% FPL,Yes,2.3,151
+NYC0945,Brooklyn,65+,Male,Some College,100-199% FPL,Yes,1.0,122
+NYC0946,Bronx,45-64,Female,Less than High School,>=400% FPL,Yes,3.2,85
+NYC0947,Bronx,65+,Female,Some College,100-199% FPL,Yes,1.4,144
+NYC0948,Queens,18-24,Female,High School Graduate,100-199% FPL,No,2.9,75
+NYC0949,Queens,18-24,Female,High School Graduate,100-199% FPL,Yes,1.0,77
+NYC0950,Queens,45-64,Male,College Graduate,200-399% FPL,Yes,1.4,137
+NYC0951,Staten Island,45-64,Male,Less than High School,<100% FPL,No,1.7,60
+NYC0952,Staten Island,65+,Female,High School Graduate,>=400% FPL,Yes,2.8,184
+NYC0953,Manhattan,18-24,Female,High School Graduate,200-399% FPL,No,2.3,116
+NYC0954,Manhattan,65+,Female,College Graduate,<100% FPL,No,1.1,80
+NYC0955,Staten Island,65+,Female,College Graduate,100-199% FPL,Yes,1.7,165
+NYC0956,Staten Island,45-64,Male,High School Graduate,>=400% FPL,Yes,2.7,222
+NYC0957,Queens,18-24,Male,College Graduate,<100% FPL,Yes,1.2,171
+NYC0958,Manhattan,25-44,Male,Some College,100-199% FPL,No,1.8,44
+NYC0959,Brooklyn,18-24,Female,High School Graduate,200-399% FPL,Yes,1.3,204
+NYC0960,Bronx,18-24,Female,High School Graduate,200-399% FPL,Yes,1.5,124
+NYC0961,Staten Island,65+,Male,High School Graduate,100-199% FPL,No,1.0,176
+NYC0962,Queens,25-44,Male,High School Graduate,100-199% FPL,Yes,1.0,158
+NYC0963,Brooklyn,45-64,Male,College Graduate,<100% FPL,No,0.8,122
+NYC0964,Staten Island,45-64,Female,High School Graduate,>=400% FPL,Yes,2.5,158
+NYC0965,Manhattan,18-24,Female,High School Graduate,200-399% FPL,Yes,1.3,212
+NYC0966,Brooklyn,25-44,Male,Some College,<100% FPL,Yes,0.8,188
+NYC0967,Bronx,25-44,Male,College Graduate,200-399% FPL,Yes,1.2,221
+NYC0968,Bronx,65+,Male,College Graduate,<100% FPL,No,1.3,62
+NYC0969,Manhattan,18-24,Female,High School Graduate,200-399% FPL,Yes,1.5,184
+NYC0970,Manhattan,25-44,Female,Less than High School,100-199% FPL,Yes,1.0,222
+NYC0971,Manhattan,45-64,Male,Less than High School,200-399% FPL,Yes,1.6,143
+NYC0972,Brooklyn,25-44,Female,High School Graduate,100-199% FPL,Yes,2.3,163
+NYC0973,Brooklyn,45-64,Female,Some College,200-399% FPL,No,2.6,186
+NYC0974,Manhattan,45-64,Male,High School Graduate,100-199% FPL,Yes,0.3,145
+NYC0975,Queens,45-64,Male,High School Graduate,200-399% FPL,Yes,1.3,181
+NYC0976,Bronx,18-24,Male,Some College,100-199% FPL,Yes,1.6,129
+NYC0977,Bronx,18-24,Male,College Graduate,<100% FPL,No,0.3,121
+NYC0978,Bronx,25-44,Female,Some College,<100% FPL,Yes,1.2,137
+NYC0979,Brooklyn,25-44,Female,Less than High School,>=400% FPL,Yes,2.8,87
+NYC0980,Queens,25-44,Female,High School Graduate,>=400% FPL,Yes,2.0,215
+NYC0981,Bronx,65+,Female,Less than High School,>=400% FPL,Yes,2.4,179
+NYC0982,Brooklyn,65+,Male,Some College,<100% FPL,Yes,1.5,124
+NYC0983,Manhattan,45-64,Male,Some College,>=400% FPL,No,2.2,0
+NYC0984,Staten Island,25-44,Female,Some College,>=400% FPL,Yes,1.7,151
+NYC0985,Manhattan,18-24,Male,College Graduate,100-199% FPL,Yes,1.4,147
+NYC0986,Queens,65+,Male,College Graduate,<100% FPL,Yes,1.2,189
+NYC0987,Staten Island,65+,Male,Some College,<100% FPL,Yes,1.9,89
+NYC0988,Bronx,45-64,Female,Some College,200-399% FPL,Yes,2.4,130
+NYC0989,Queens,25-44,Male,Some College,200-399% FPL,Yes,1.9,126
+NYC0990,Staten Island,45-64,Female,College Graduate,200-399% FPL,Yes,2.4,245
+NYC0991,Staten Island,65+,Female,Less than High School,200-399% FPL,Yes,1.5,127
+NYC0992,Staten Island,65+,Male,Some College,>=400% FPL,Yes,2.4,143
+NYC0993,Staten Island,65+,Male,College Graduate,<100% FPL,Yes,1.2,194
+NYC0994,Queens,25-44,Male,Some College,100-199% FPL,Yes,1.9,178
+NYC0995,Staten Island,25-44,Female,College Graduate,200-399% FPL,Yes,0.6,7
+NYC0996,Staten Island,65+,Male,Some College,200-399% FPL,Yes,2.6,220
+NYC0997,Manhattan,18-24,Male,High School Graduate,100-199% FPL,Yes,1.9,158
+NYC0998,Bronx,45-64,Female,High School Graduate,100-199% FPL,Yes,2.0,121
+NYC0999,Staten Island,25-44,Male,College Graduate,>=400% FPL,Yes,2.4,235
+NYC1000,Manhattan,65+,Female,College Graduate,100-199% FPL,Yes,1.6,228
