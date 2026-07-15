@@ -41,7 +41,7 @@ function Main() {
             onMouseOver={(e) => (e.currentTarget.style.background = '#057d7d')}
             onMouseOut={(e) => (e.currentTarget.style.background = '#069494')}
           >
-            Download Resume (PDF)
+            Download Resume
           </a>
 
           <div className="mobile_social_icons">
