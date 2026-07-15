@@ -24,8 +24,8 @@ function Education() {
 
           <div className="education-card">
             <h3>University of Georgia</h3>
-            <h4>PharmD / MS Dual Degree Pathway • 2023 - 2024</h4>
-            <p>Completed intensive training in clinical pharmacology, therapeutics, and clinical trial design prior to pursuing advanced epidemiologic research.</p>
+            <h4>PharmD Coursework • 2023 - 2024</h4>
+            <p>Completed intensive coursework in clinical pharmacology, therapeutics, and clinical trial design prior to pursuing advanced epidemiologic research.</p>
           </div>
         </div>
 
