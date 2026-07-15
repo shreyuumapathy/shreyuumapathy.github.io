@@ -13,7 +13,7 @@ function Education() {
           <div className="education-card">
             <h3>CUNY Graduate School of Public Health</h3>
             <h4>Master of Public Health (MPH) in Epidemiology & Biostatistics • 2026</h4>
-            <p>Focus on advanced quantitative methodologies, epidemiologic research methods, and biostatistics modeling. Capstone Colloquium presenter on LLM clinical narrative bias.</p>
+            <p>Focus on advanced quantitative methodologies, epidemiologic research methods, and biostatistics modeling. Capstone presenter on LLM clinical narrative bias.</p>
           </div>
 
           <div className="education-card">
@@ -71,7 +71,7 @@ function Education() {
 
           <div className="publication-card">
             <h3>Demographic Anchoring in LLM Narratives</h3>
-            <h4>Presenter • CUNY SPH Capstone Colloquium</h4>
+            <h4>Presenter • CUNY SPH Capstone</h4>
             <p>Presented research findings evaluating clinical bias and status erasure in generative AI models. Quantified demographic differences in appraisal scores using multivariable interaction linear models in R.</p>
           </div>
         </div>
