@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b384cefd.css",
-    "main.js": "/static/js/main.7500c773.js",
+    "main.js": "/static/js/main.3ed34c91.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/nyc_chs_nutrition.jpg": "/static/media/nyc_chs_nutrition.4d10ff4a091d7576c3c9.jpg",
     "static/media/llm_health_bias.jpg": "/static/media/llm_health_bias.5b0d5542c5a60850e0c9.jpg",
@@ -12,11 +12,11 @@
     "static/media/shreyu_avatar.jpg": "/static/media/shreyu_avatar.1a40402499b472af4213.jpg",
     "index.html": "/index.html",
     "main.b384cefd.css.map": "/static/css/main.b384cefd.css.map",
-    "main.7500c773.js.map": "/static/js/main.7500c773.js.map",
+    "main.3ed34c91.js.map": "/static/js/main.3ed34c91.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b384cefd.css",
-    "static/js/main.7500c773.js"
+    "static/js/main.3ed34c91.js"
   ]
 }
