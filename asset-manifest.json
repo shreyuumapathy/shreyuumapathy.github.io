@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.9d4739f5.css",
-    "main.js": "/static/js/main.d259e9b2.js",
+    "main.js": "/static/js/main.98609a09.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
-    "static/media/powerbi_llm_bias_dashboard.jpg": "/static/media/powerbi_llm_bias_dashboard.d21e3dbd22a59e50ec95.jpg",
     "static/media/nyc_chs_nutrition.jpg": "/static/media/nyc_chs_nutrition.4d10ff4a091d7576c3c9.jpg",
     "static/media/tableau_nyc_chs_dashboard.jpg": "/static/media/tableau_nyc_chs_dashboard.1b0e567c9b1d5c4a739f.jpg",
     "static/media/llm_health_bias.jpg": "/static/media/llm_health_bias.5b0d5542c5a60850e0c9.jpg",
@@ -11,14 +10,15 @@
     "static/media/survival_analysis.jpg": "/static/media/survival_analysis.1febfd64779b07a7f9aa.jpg",
     "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/powerbi_llm_bias_dashboard.jpg": "/static/media/powerbi_llm_bias_dashboard.b24a752d9af054a059d8.jpg",
     "static/media/shreyu_avatar.jpg": "/static/media/shreyu_avatar.1a40402499b472af4213.jpg",
     "index.html": "/index.html",
     "main.9d4739f5.css.map": "/static/css/main.9d4739f5.css.map",
-    "main.d259e9b2.js.map": "/static/js/main.d259e9b2.js.map",
+    "main.98609a09.js.map": "/static/js/main.98609a09.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d4739f5.css",
-    "static/js/main.d259e9b2.js"
+    "static/js/main.98609a09.js"
   ]
 }
