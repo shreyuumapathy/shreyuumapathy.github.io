@@ -291,10 +291,14 @@ function Project() {
               )}
               
               <p style={{ color: '#aaa', margin: '15px 0 0 0', fontSize: '0.8rem', textAlign: 'center', lineHeight: '1.4', fontFamily: 'sans-serif' }}>
-                {(activeDashboardType === 'tableau' && !!TABLEAU_EMBED_URL) || (activeDashboardType === 'powerbi' && !!POWERBI_EMBED_URL) ? (
+                {activeDashboardType === 'tableau' && !!TABLEAU_EMBED_URL ? (
                   <span>💡 <strong>Live Connection Active:</strong> You are interacting with the actual published cloud report instance. Hover and filter variables to explore.</span>
+                ) : activeDashboardType === 'powerbi' && !!POWERBI_EMBED_URL ? (
+                  <span>💡 <strong>Live Connection Active:</strong> You are interacting with the actual published cloud report instance. Hover and filter variables to explore.</span>
+                ) : activeDashboardType === 'tableau' ? (
+                  <span>💡 <strong>Tableau Dashboard Preview:</strong> This is a high-fidelity rendering of the dashboard. Click the <strong>"Download Workbook"</strong> button under the project card to inspect the raw Tableau workbook (.twbx) file.</span>
                 ) : (
-                  <span>💡 <strong>Recruiter Notice:</strong> Paste your published cloud dashboard URL inside <code>src/components/Project.tsx</code> (lines 13-14) to replace this static mockup with your fully live, interactive cloud report.</span>
+                  <span>💡 <strong>Power BI Dashboard Preview:</strong> Built in Power BI. Due to cloud tenant sharing restrictions on the free tier, please click the <strong>"Download Workbook"</strong> button under the project card to inspect the interactive database model, DAX measures, and relationships directly in Power BI Desktop!</span>
                 )}
               </p>
             </div>
