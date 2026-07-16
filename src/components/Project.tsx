@@ -298,7 +298,7 @@ function Project() {
                 ) : activeDashboardType === 'tableau' ? (
                   <span>💡 <strong>Tableau Dashboard Preview:</strong> This is a high-fidelity rendering of the dashboard. Click the <strong>"Download Workbook"</strong> button under the project card to inspect the raw Tableau workbook (.twbx) file.</span>
                 ) : (
-                  <span>💡 <strong>Power BI Dashboard Preview:</strong> Built in Power BI. Due to cloud tenant sharing restrictions on the free tier, please click the <strong>"Download Workbook"</strong> button under the project card to inspect the interactive database model, DAX measures, and relationships directly in Power BI Desktop!</span>
+                  <span>💡 <strong>Power BI Dashboard Preview:</strong> Built in Power BI. Please click the <strong>"Download Workbook"</strong> button under the project card to inspect the interactive database model, DAX measures, and relationships directly in Power BI Desktop!</span>
                 )}
               </p>
             </div>
